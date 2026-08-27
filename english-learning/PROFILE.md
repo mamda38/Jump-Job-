@@ -34,6 +34,5 @@
 - Chủ đề yêu thích: —
 - Chủ đề không muốn học: —
 - Khung giờ học thường xuyên: —
-- Điểm mạnh: —
-- Điểm cần cải thiện: —
-
+- Điểm mạnh: tìm được các chi tiết được nêu trực tiếp; hiểu được ý tưởng thực tế chính của bài; nhận ra được lợi ích và bất lợi cơ bản.
+- Điểm cần cải thiện: phân biệt chủ đề với mục đích tác giả; trả lời đúng chủ thể của câu hỏi; suy luận nghĩa từ ngữ cảnh; paraphrase; viết câu tiếng Anh có chủ ngữ và động từ hoàn chỉnh.

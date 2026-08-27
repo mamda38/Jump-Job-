@@ -1,0 +1,455 @@
+{
+  "generatedAt": "2026-08-27T02:17:13.915Z",
+  "lessons": [
+    {
+      "slug": "baseline-assessment",
+      "kind": "assessment",
+      "title": "Baseline reading assessment",
+      "displayTitle": "Bài đánh giá đầu vào",
+      "topic": "assessment",
+      "topicLabel": "Đánh giá",
+      "sourceStatus": "not-started",
+      "estimatedMinutes": "20-25",
+      "wordCount": 222,
+      "introduction": "1. Bấm giờ và đọc một lượt không dùng từ điển.\n2. Ghi thời gian đọc và mức hiểu tự đánh giá từ 0–100%.\n3. Trả lời câu hỏi 1–5 không tra cứu.\n4. Với câu 6–7, đoán nghĩa từ ngữ cảnh.\n5. Sau đó có thể tra từ và ghi số lần tra cứu cần thiết để hiểu rõ bài.",
+      "passageTitle": "Why some cities still protect cash payments",
+      "passage": "### Why some cities still protect cash payments\n\nDigital payments have become a normal part of daily life. Many people use a phone or a bank card to pay for transport, meals, and even small purchases. For businesses, digital systems can make transactions faster and reduce the need to store cash. Customers may also find it easier to review their spending because every payment appears in an app or bank account.\n\nHowever, a completely cashless economy can create difficulties. Older adults may be less comfortable with new technology, while people without a bank account cannot always use digital services. Technical problems are another concern. If a payment network fails or a phone loses power, a person may suddenly be unable to buy something essential.\n\nFor these reasons, some city governments have introduced rules requiring shops to accept cash. Supporters say such rules prevent vulnerable groups from being excluded. They view cash as a public option that should remain available even when most customers prefer electronic payments.\n\nCritics argue that businesses should choose which payments they accept. Handling cash takes time, creates security risks, and can increase operating costs. They believe competition will encourage shops to offer the methods their customers actually want.\n\nThe debate is therefore not simply about old and new technology. It concerns convenience, fairness, business freedom, and society's ability to continue functioning when digital systems are unavailable.",
+      "questions": [
+        {
+          "id": "q1",
+          "text": "What is the main purpose of the passage?",
+          "hint": "Hãy so sánh ý ở đoạn mở đầu với kết luận để xác định mục đích của tác giả.",
+          "answer": "Bài trình bày lợi ích và vấn đề của thanh toán số, sau đó giải thích cuộc tranh luận về việc cửa hàng có nên bắt buộc nhận tiền mặt hay không."
+        },
+        {
+          "id": "q2",
+          "text": "Give two advantages of digital payments mentioned in the passage.",
+          "hint": "Quay lại đoạn đầu và tìm các lợi ích được liệt kê cho cả doanh nghiệp lẫn khách hàng.",
+          "answer": "Hai trong các ý: giao dịch nhanh hơn; doanh nghiệp không phải giữ nhiều tiền mặt; khách hàng dễ theo dõi chi tiêu."
+        },
+        {
+          "id": "q3",
+          "text": "Why can a cashless system be difficult for people without a bank account?",
+          "hint": "Tìm câu chứa cụm “without a bank account” và diễn đạt lại bằng lời của bạn.",
+          "answer": "Họ không phải lúc nào cũng có quyền truy cập vào các dịch vụ thanh toán số cần tài khoản ngân hàng."
+        },
+        {
+          "id": "q4",
+          "text": "What do supporters of cash-acceptance rules mean by a “public option”?",
+          "hint": "Đọc hai câu sau cụm “public option” và chú ý nhóm người có nguy cơ bị loại trừ.",
+          "answer": "Tiền mặt là một lựa chọn mọi người vẫn có thể tiếp cận, đặc biệt để tránh loại trừ nhóm gặp bất lợi."
+        },
+        {
+          "id": "q5",
+          "text": "Which concern do both sides of the debate appear to share, even though they propose different solutions?",
+          "hint": "Hai phía bất đồng về cách làm, nhưng đều muốn hệ thống thanh toán phục vụ người dùng và doanh nghiệp.",
+          "answer": "Cả hai phía đều quan tâm tới một hệ thống thanh toán hoạt động hiệu quả/phục vụ nhu cầu thực tế; chấp nhận câu trả lời có lập luận hợp lý dựa trên bài."
+        },
+        {
+          "id": "q6",
+          "text": "In paragraph 3, what does **vulnerable** most nearly mean? Explain the clue you used.",
+          "hint": "Nhìn vào cụm “being excluded” ngay sau từ cần đoán.",
+          "answer": "*Vulnerable*: dễ bị tổn thương hoặc chịu bất lợi. Dấu hiệu là các nhóm có nguy cơ bị loại trừ khỏi việc mua hàng."
+        },
+        {
+          "id": "q7",
+          "text": "In paragraph 5, what does **functioning** most nearly mean? Explain the clue you used.",
+          "hint": "Đặt từ này đối lập với tình huống hệ thống kỹ thuật số không dùng được.",
+          "answer": "*Functioning*: tiếp tục hoạt động. Dấu hiệu là tình huống hệ thống kỹ thuật số không dùng được nhưng xã hội vẫn cần vận hành."
+        }
+      ],
+      "source": null,
+      "vocabularyIds": [],
+      "grammar": "",
+      "conversation": "",
+      "writingPrompt": "Tóm tắt bài đọc bằng 2–3 câu tiếng Anh."
+    },
+    {
+      "slug": "2026-08-25-sample-microshifting",
+      "kind": "lesson",
+      "title": "Microshifting: a flexible working day",
+      "displayTitle": "Microshifting",
+      "topic": "life",
+      "topicLabel": "Đời sống",
+      "sourceStatus": "not-started",
+      "estimatedMinutes": "20-30",
+      "wordCount": 250,
+      "introduction": "Nhìn vào từ *microshifting*. Theo bạn, nó có thể mô tả kiểu làm việc như thế nào?",
+      "passageTitle": "Đọc tại nguồn",
+      "passage": "Nhìn vào từ *microshifting*. Theo bạn, nó có thể mô tả kiểu làm việc như thế nào?",
+      "questions": [
+        {
+          "id": "q1",
+          "text": "How is microshifting different from a traditional 9-to-5 schedule?",
+          "hint": "Tập trung vào cách lịch làm việc này khác với khung giờ cố định.",
+          "answer": ""
+        },
+        {
+          "id": "q2",
+          "text": "What change in working life helped this practice become more common?",
+          "hint": "Tìm đoạn nói về những thay đổi sau đại dịch và cách làm việc linh hoạt.",
+          "answer": ""
+        },
+        {
+          "id": "q3",
+          "text": "Give one personal reason why a worker may prefer this schedule.",
+          "hint": "Tìm một ví dụ liên quan đến chăm sóc bản thân hoặc gia đình.",
+          "answer": ""
+        },
+        {
+          "id": "q4",
+          "text": "Why might taking a break improve creativity?",
+          "hint": "Chú ý phần giải thích điều gì xảy ra với ý tưởng khi ta tạm dừng một nhiệm vụ.",
+          "answer": ""
+        },
+        {
+          "id": "q5",
+          "text": "What possible management problem can you infer from this way of working?",
+          "hint": "Suy nghĩ về việc phối hợp nhóm, khả năng phản hồi và cách đo hiệu suất.",
+          "answer": ""
+        }
+      ],
+      "source": {
+        "publisher": "Associated Press (AP)",
+        "originalTitle": "“'Microshifting' puts a new spin on 9-to-5 schedules”",
+        "url": "https://apnews.com/article/97a98519916b447cd60c73261ffc0b4e",
+        "publishedAt": "2026-03-19",
+        "accessedAt": "2026-08-25",
+        "readingRange": "từ đầu bài đến hết phần giải thích vì sao người ủng hộ cho rằng các khoảng nghỉ có thể giúp sự sáng tạo và năng suất; khoảng 250 từ đầu, bỏ chú thích ảnh."
+      },
+      "vocabularyIds": [
+        "microshifting:1",
+        "microshifting:2",
+        "microshifting:3",
+        "microshifting:4",
+        "microshifting:5",
+        "microshifting:6",
+        "microshifting:7",
+        "microshifting:8"
+      ],
+      "grammar": "### allow someone to + verb\n\nDùng khi một người hoặc chính sách tạo điều kiện cho ai làm gì.\n\n> Flexible hours allow employees to manage personal responsibilities.\n\nHãy tạo một câu liên quan đến lịch làm việc của bạn.\n\n### by + V-ing\n\nDùng để nói phương thức đạt được một kết quả.\n\n> Some people protect their energy by taking short breaks.\n\nHãy tạo một câu về cách bạn học tiếng Anh.",
+      "conversation": "1. Would microshifting work well in your job? Why or why not?\n2. When are you usually most productive?\n3. How should a manager measure performance in a flexible schedule?",
+      "writingPrompt": "Viết 2–3 câu bằng tiếng Anh: định nghĩa *microshifting* bằng lời của bạn và nêu một lợi ích hoặc bất lợi.\n\n>"
+    },
+    {
+      "slug": "2026-08-27-social-connection",
+      "kind": "lesson",
+      "title": "Small actions can rebuild social connection",
+      "displayTitle": "Small actions can rebuild social connection",
+      "topic": "society",
+      "topicLabel": "Xã hội",
+      "sourceStatus": "completed",
+      "estimatedMinutes": "20-25",
+      "wordCount": 180,
+      "introduction": "Dựa vào tiêu đề, bạn nghĩ những “small actions” nào có thể giúp mọi người kết nối với nhau?",
+      "passageTitle": "Đọc tại nguồn",
+      "passage": "Dựa vào tiêu đề, bạn nghĩ những “small actions” nào có thể giúp mọi người kết nối với nhau?",
+      "questions": [
+        {
+          "id": "q1",
+          "text": "What is the main purpose of the passage?",
+          "hint": "Đừng chỉ nêu chủ đề “social isolation”. Hãy bắt đầu bằng *The passage explains/describes...* rồi nói bài cho thấy điều gì.",
+          "answer": "The passage explains how small local actions can reduce social isolation and strengthen communities."
+        },
+        {
+          "id": "q2",
+          "text": "Give two examples of how local groups create social connection.",
+          "hint": "Tìm các hành động cụ thể ở đoạn 2; chọn hai ví dụ và diễn đạt ngắn gọn bằng lời của bạn.",
+          "answer": "Any two: creating shared meeting places; exchanging food; helping care for children; supporting public spaces, affordable housing, or small businesses."
+        },
+        {
+          "id": "q3",
+          "text": "According to the passage, why may neighbors give more practical help?",
+          "hint": "Chủ thể câu hỏi là *neighbors*. Tìm câu bắt đầu bằng *When people know one another...*",
+          "answer": "When neighbors know one another, they may be more willing to help during difficult times."
+        },
+        {
+          "id": "q4",
+          "text": "Why does the writer say that rebuilding connection can be slow?",
+          "hint": "Tìm từ *slow* ở đoạn cuối và đọc phần nguyên nhân ngay sau *because*.",
+          "answer": "Rebuilding connection can be slow because trust takes time to grow."
+        }
+      ],
+      "source": {
+        "publisher": "Associated Press (AP)",
+        "originalTitle": "“Bit by bit, small US groups chip away at historic levels of social isolation”",
+        "url": "https://apnews.com/article/social-isolation-religion-building-connections-fd824e3daa93594e5f0d448afac45aa2",
+        "publishedAt": "2025-12-18",
+        "accessedAt": "2026-08-26",
+        "readingRange": "Bản đọc thích nghi 180 từ dựa trên phần mở đầu và các ví dụ tại Baltimore và Ohio."
+      },
+      "vocabularyIds": [
+        "social-connection:1",
+        "social-connection:2",
+        "social-connection:3",
+        "social-connection:4",
+        "social-connection:5",
+        "social-connection:6",
+        "social-connection:7"
+      ],
+      "grammar": "### can/may + động từ nguyên mẫu\n\nDùng *can* cho khả năng chung và *may* cho một khả năng có thể xảy ra.\n\n> Social isolation can affect health.\n>\n> Neighbors may offer practical help.\n\nHãy tạo một câu với *can* hoặc *may* về cộng đồng nơi bạn sống.\n\n### When + hiện tại đơn, can/may + động từ\n\n> When people know one another, they may help more often.\n\nHãy tạo một câu bắt đầu bằng *When people...*",
+      "conversation": "1. Do you know your neighbors well?\n2. Where can people meet in your neighborhood?\n3. What small action can make a community stronger?",
+      "writingPrompt": "Viết 2–3 câu tiếng Anh: tóm tắt cách những nhóm địa phương giảm sự cô lập và nêu một hành động phù hợp với nơi bạn sống."
+    },
+    {
+      "slug": "2026-08-28-prices-do-not-all-change-the-same-way",
+      "kind": "lesson",
+      "title": "Prices do not all change in the same way",
+      "displayTitle": "Prices do not all change in the same way",
+      "topic": "economy",
+      "topicLabel": "Kinh tế",
+      "sourceStatus": "not-started",
+      "estimatedMinutes": "20-25",
+      "wordCount": 148,
+      "introduction": "Nếu tỷ lệ lạm phát tăng, bạn nghĩ tất cả mặt hàng đều tăng giá giống nhau không?",
+      "passageTitle": "Đọc tại nguồn",
+      "passage": "Nếu tỷ lệ lạm phát tăng, bạn nghĩ tất cả mặt hàng đều tăng giá giống nhau không?",
+      "questions": [
+        {
+          "id": "q1",
+          "text": "What is the main purpose of the passage?",
+          "hint": "Dùng cấu trúc *The passage explains...* và chú ý ý đối lập được lặp lại ở đoạn đầu và đoạn cuối.",
+          "answer": "The passage explains that inflation affects different prices in different ways."
+        },
+        {
+          "id": "q2",
+          "text": "Name two types of food that became more expensive.",
+          "hint": "Tìm câu bắt đầu bằng *Prices rose for...* ở đoạn 2 và chọn hai danh từ.",
+          "answer": "Any two: fruit, meat, sweets, or chocolate."
+        },
+        {
+          "id": "q3",
+          "text": "Give two examples of things that became cheaper.",
+          "hint": "Tìm từ *cheaper* ở đoạn 3 và chọn hai ví dụ.",
+          "answer": "Any two: household electricity, natural gas, butter, cooking oils, or potatoes."
+        },
+        {
+          "id": "q4",
+          "text": "Why can two consumers experience inflation differently?",
+          "hint": "Đọc câu cuối. Gạch chân chủ ngữ *two consumers* và nghĩ xem họ có mua cùng một loại hàng hay không.",
+          "answer": "They can experience inflation differently because they buy different things."
+        }
+      ],
+      "source": {
+        "publisher": "Deutsche Welle (DW)",
+        "originalTitle": "“Germany inflation rises 2.1% at start of 2026”",
+        "url": "https://www.dw.com/en/germany-inflation-rises-21-at-start-of-2026/a-76002335",
+        "publishedAt": "2026-02-17",
+        "accessedAt": "2026-08-27",
+        "readingRange": "Bản đọc thích nghi khoảng 150 từ dựa trên phần số liệu về thực phẩm, dịch vụ và năng lượng."
+      },
+      "vocabularyIds": [
+        "prices-do-not-all-change-the-same-way:1",
+        "prices-do-not-all-change-the-same-way:2",
+        "prices-do-not-all-change-the-same-way:3",
+        "prices-do-not-all-change-the-same-way:4",
+        "prices-do-not-all-change-the-same-way:5",
+        "prices-do-not-all-change-the-same-way:6",
+        "prices-do-not-all-change-the-same-way:7"
+      ],
+      "grammar": "### become/became + tính từ\n\nDùng để mô tả một sự thay đổi trạng thái. *Became* là dạng quá khứ của *become*.\n\n> Food became more expensive.\n>\n> Electricity became cheaper.\n\nHãy tạo một câu về một mặt hàng gần đây.\n\n### Some..., while others...\n\nDùng để đối chiếu hai nhóm.\n\n> Some prices rose, while others fell.\n\nHãy tạo một câu so sánh hai loại chi phí.",
+      "conversation": "1. Which prices do you notice most in daily life?\n2. Is food more expensive where you live?\n3. What do you do when prices rise?",
+      "writingPrompt": "Viết 2–3 câu tiếng Anh: giải thích vì sao một con số lạm phát không có nghĩa là mọi mặt hàng đều tăng giá giống nhau."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "microshifting:1",
+      "lessonKey": "microshifting",
+      "term": "work in increments",
+      "meaning": "làm việc theo từng khoảng thời gian nhỏ.",
+      "collocation": "short increments, in 30-minute increments.",
+      "example": "I work in short increments when a task requires deep focus.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "microshifting:2",
+      "lessonKey": "microshifting",
+      "term": "boost productivity",
+      "meaning": "nâng cao năng suất.",
+      "collocation": "significantly boost productivity.",
+      "example": "Clear priorities can boost productivity without longer hours.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "microshifting:3",
+      "lessonKey": "microshifting",
+      "term": "work-life balance",
+      "meaning": "sự cân bằng giữa công việc và cuộc sống.",
+      "collocation": "improve/maintain work-life balance.",
+      "example": "A shorter commute may improve work-life balance.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "microshifting:4",
+      "lessonKey": "microshifting",
+      "term": "flexible arrangement",
+      "meaning": "cách sắp xếp linh hoạt.",
+      "collocation": "offer/agree on a flexible arrangement.",
+      "example": "The team agreed on a flexible arrangement for parents.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "microshifting:5",
+      "lessonKey": "microshifting",
+      "term": "set schedule",
+      "meaning": "lịch trình cố định.",
+      "collocation": "follow/have a set schedule.",
+      "example": "Customer support staff usually follow a set schedule.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "microshifting:6",
+      "lessonKey": "microshifting",
+      "term": "autonomy",
+      "meaning": "quyền tự chủ, khả năng tự quyết định cách làm việc.",
+      "collocation": "give employees autonomy, greater autonomy.",
+      "example": "Greater autonomy can motivate experienced employees.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "microshifting:7",
+      "lessonKey": "microshifting",
+      "term": "be judged by output",
+      "meaning": "được đánh giá dựa trên kết quả tạo ra.",
+      "collocation": "judge performance by output/results.",
+      "example": "In some roles, employees are judged by output rather than hours.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "microshifting:8",
+      "lessonKey": "microshifting",
+      "term": "take a break",
+      "meaning": "nghỉ giải lao.",
+      "collocation": "take a short/regular break.",
+      "example": "I take a short break after fifty minutes of study.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "social-connection:1",
+      "lessonKey": "social-connection",
+      "term": "social isolation",
+      "meaning": "sự cô lập xã hội, tình trạng ít kết nối với người khác.",
+      "collocation": "reduce social isolation, experience social isolation.",
+      "example": "Community activities can reduce social isolation.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "social-connection:2",
+      "lessonKey": "social-connection",
+      "term": "affect their health",
+      "meaning": "ảnh hưởng đến sức khỏe của họ.",
+      "collocation": "negatively affect health, affect mental health.",
+      "example": "Long periods of loneliness may affect their health.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "social-connection:3",
+      "lessonKey": "social-connection",
+      "term": "rebuild connection",
+      "meaning": "xây dựng lại sự kết nối.",
+      "collocation": "rebuild social connection, rebuild trust.",
+      "example": "Shared activities can help neighbors rebuild connection.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "social-connection:4",
+      "lessonKey": "social-connection",
+      "term": "exchange food",
+      "meaning": "trao đổi hoặc chia sẻ thực phẩm với nhau.",
+      "collocation": "exchange food and gifts.",
+      "example": "Neighbors meet once a week to exchange food.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "social-connection:5",
+      "lessonKey": "social-connection",
+      "term": "public spaces",
+      "meaning": "không gian công cộng.",
+      "collocation": "shared public spaces, create public spaces.",
+      "example": "Parks are useful public spaces for families.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "social-connection:6",
+      "lessonKey": "social-connection",
+      "term": "practical help",
+      "meaning": "sự giúp đỡ thiết thực, trực tiếp giải quyết nhu cầu.",
+      "collocation": "give/offer practical help.",
+      "example": "Friends can offer practical help during difficult times.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "social-connection:7",
+      "lessonKey": "social-connection",
+      "term": "trust takes time to grow",
+      "meaning": "lòng tin cần thời gian để phát triển.",
+      "collocation": "build trust, earn someone's trust.",
+      "example": "New teams should remember that trust takes time to grow.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "prices-do-not-all-change-the-same-way:1",
+      "lessonKey": "prices-do-not-all-change-the-same-way",
+      "term": "inflation rate",
+      "meaning": "tỷ lệ lạm phát.",
+      "collocation": "a high/low inflation rate, the inflation rate rises.",
+      "example": "The inflation rate was lower last month.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "prices-do-not-all-change-the-same-way:2",
+      "lessonKey": "prices-do-not-all-change-the-same-way",
+      "term": "goods and services",
+      "meaning": "hàng hóa và dịch vụ.",
+      "collocation": "the cost of goods and services.",
+      "example": "People pay for many goods and services every week.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "prices-do-not-all-change-the-same-way:3",
+      "lessonKey": "prices-do-not-all-change-the-same-way",
+      "term": "become more expensive",
+      "meaning": "trở nên đắt hơn, tăng giá.",
+      "collocation": "food becomes more expensive.",
+      "example": "Imported fruit may become more expensive.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "prices-do-not-all-change-the-same-way:4",
+      "lessonKey": "prices-do-not-all-change-the-same-way",
+      "term": "daily life",
+      "meaning": "cuộc sống hằng ngày.",
+      "collocation": "affect daily life, part of daily life.",
+      "example": "Higher food prices affect daily life.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "prices-do-not-all-change-the-same-way:5",
+      "lessonKey": "prices-do-not-all-change-the-same-way",
+      "term": "household electricity",
+      "meaning": "điện sinh hoạt của hộ gia đình.",
+      "collocation": "household electricity prices/costs.",
+      "example": "Household electricity became cheaper that year.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "prices-do-not-all-change-the-same-way:6",
+      "lessonKey": "prices-do-not-all-change-the-same-way",
+      "term": "balance an increase",
+      "meaning": "bù lại hoặc làm giảm tác động của một mức tăng.",
+      "collocation": "partly help balance an increase.",
+      "example": "Lower transport costs may balance an increase in rent.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "prices-do-not-all-change-the-same-way:7",
+      "lessonKey": "prices-do-not-all-change-the-same-way",
+      "term": "prices rose / prices fell",
+      "meaning": "giá đã tăng / giá đã giảm.",
+      "collocation": "rise sharply, fall slightly.",
+      "example": "Food prices rose, while energy prices fell.",
+      "sourceStatus": "new"
+    }
+  ]
+}
