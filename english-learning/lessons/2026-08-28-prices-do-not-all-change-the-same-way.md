@@ -1,8 +1,8 @@
 ---
 title: "Prices do not all change in the same way"
 topic: economy
-status: not-started
-study_date: 2026-08-28
+status: completed
+study_date: 2026-09-04
 estimated_minutes: 20-25
 word_count: 148
 ---
@@ -93,9 +93,9 @@ Viết 2–3 câu tiếng Anh: giải thích vì sao một con số lạm phát 
 
 ## Kết quả
 
-- Thời gian đọc: —
-- Câu đúng: —/4
-- Mức hiểu tự đánh giá: —%
-- Số lần tra cứu sau lượt đầu: —
+- Thời gian đọc: 41 phút 51 giây
+- Câu đúng: 3,5/4 lần đầu; 3,75/4 sau một vòng gợi ý
+- Mức hiểu tự đánh giá: 90%
+- Số lần tra cứu sau lượt đầu: 5
 - Số từ đoán đúng: —/7
-- Trạng thái: not-started
+- Trạng thái: completed

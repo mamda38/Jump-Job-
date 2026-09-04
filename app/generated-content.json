@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T02:17:13.915Z",
+  "generatedAt": "2026-09-04T09:54:03.043Z",
   "lessons": [
     {
       "slug": "baseline-assessment",
@@ -198,7 +198,7 @@
       "displayTitle": "Prices do not all change in the same way",
       "topic": "economy",
       "topicLabel": "Kinh tế",
-      "sourceStatus": "not-started",
+      "sourceStatus": "completed",
       "estimatedMinutes": "20-25",
       "wordCount": 148,
       "introduction": "Nếu tỷ lệ lạm phát tăng, bạn nghĩ tất cả mặt hàng đều tăng giá giống nhau không?",
@@ -250,6 +250,66 @@
       "grammar": "### become/became + tính từ\n\nDùng để mô tả một sự thay đổi trạng thái. *Became* là dạng quá khứ của *become*.\n\n> Food became more expensive.\n>\n> Electricity became cheaper.\n\nHãy tạo một câu về một mặt hàng gần đây.\n\n### Some..., while others...\n\nDùng để đối chiếu hai nhóm.\n\n> Some prices rose, while others fell.\n\nHãy tạo một câu so sánh hai loại chi phí.",
       "conversation": "1. Which prices do you notice most in daily life?\n2. Is food more expensive where you live?\n3. What do you do when prices rise?",
       "writingPrompt": "Viết 2–3 câu tiếng Anh: giải thích vì sao một con số lạm phát không có nghĩa là mọi mặt hàng đều tăng giá giống nhau."
+    },
+    {
+      "slug": "2026-09-04-simple-morning-routine",
+      "kind": "lesson",
+      "title": "A simple morning routine",
+      "displayTitle": "A simple morning routine",
+      "topic": "life",
+      "topicLabel": "Đời sống",
+      "sourceStatus": "completed",
+      "estimatedMinutes": "20-25",
+      "wordCount": 162,
+      "introduction": "What do you usually do during the first hour after you wake up?\n\nTrả lời bằng một câu ngắn trước khi đọc.",
+      "passageTitle": "Đọc tại nguồn",
+      "passage": "What do you usually do during the first hour after you wake up?\n\nTrả lời bằng một câu ngắn trước khi đọc.",
+      "questions": [
+        {
+          "id": "q1",
+          "text": "What is the main purpose of the passage?",
+          "hint": "Đừng chỉ viết *The passage is about morning routines*. Dùng *explains* và nêu lời khuyên chính ở đoạn cuối.",
+          "answer": "The passage explains why a simple morning routine can be useful and suggests a few easy habits."
+        },
+        {
+          "id": "q2",
+          "text": "Why can doing tasks in the same order be helpful?",
+          "hint": "Tìm câu chứa cụm *in the same order* và xem động từ ngay sau chủ ngữ nói lợi ích gì.",
+          "answer": "It saves mental effort and may help people feel organized."
+        },
+        {
+          "id": "q3",
+          "text": "Name three easy morning habits mentioned in the passage.",
+          "hint": "Tìm đoạn bắt đầu bằng *Experts suggest...* và chọn ba hành động, không chọn lợi ích.",
+          "answer": "Any three: making the bed, drinking water, taking a short walk/getting natural light, or eating before drinking coffee."
+        },
+        {
+          "id": "q4",
+          "text": "Why may a simple routine be easier to continue than a complicated one?",
+          "hint": "Đây là câu suy luận. So sánh cụm *complicated routine* ở đoạn 1 với *fits a person's needs and can be repeated* ở đoạn cuối.",
+          "answer": "A simple routine requires fewer tasks, can fit a person's needs, and is therefore easier to repeat."
+        }
+      ],
+      "source": {
+        "publisher": "Associated Press (AP)",
+        "originalTitle": "“A 6-hour morning routine? First, try a few simple habits to start your day”",
+        "url": "https://apnews.com/article/morning-routine-health-129c6942914cfccaaa99b6f40727d141",
+        "publishedAt": "2025-04-21",
+        "accessedAt": "2026-09-04",
+        "readingRange": "Bản đọc thích nghi 162 từ dựa trên phần giải thích lợi ích và các gợi ý tạo thói quen buổi sáng."
+      },
+      "vocabularyIds": [
+        "simple-morning-routine:1",
+        "simple-morning-routine:2",
+        "simple-morning-routine:3",
+        "simple-morning-routine:4",
+        "simple-morning-routine:5",
+        "simple-morning-routine:6",
+        "simple-morning-routine:7"
+      ],
+      "grammar": "### help + someone + động từ nguyên mẫu\n\nSau *help + người*, dùng động từ nguyên mẫu.\n\n> Natural light helps people feel awake.\n\nHãy viết một câu về một thói quen giúp bạn bắt đầu ngày mới.\n\n### suggest + V-ing\n\nDùng để nói ai đó đề xuất làm một việc.\n\n> Experts suggest starting with easy habits.\n\nHãy hoàn thành: *I suggest starting the day by...*",
+      "conversation": "1. Do you have a morning routine?\n2. Which morning habit gives you more energy?\n3. Is your morning usually calm or rushed? Why?",
+      "writingPrompt": "Viết 2–3 câu tiếng Anh: mô tả thói quen buổi sáng hiện tại của bạn và nêu một thay đổi nhỏ bạn muốn thử."
     }
   ],
   "vocabulary": [
@@ -395,7 +455,7 @@
       "meaning": "tỷ lệ lạm phát.",
       "collocation": "a high/low inflation rate, the inflation rate rises.",
       "example": "The inflation rate was lower last month.",
-      "sourceStatus": "new"
+      "sourceStatus": "learning"
     },
     {
       "id": "prices-do-not-all-change-the-same-way:2",
@@ -404,7 +464,7 @@
       "meaning": "hàng hóa và dịch vụ.",
       "collocation": "the cost of goods and services.",
       "example": "People pay for many goods and services every week.",
-      "sourceStatus": "new"
+      "sourceStatus": "learning"
     },
     {
       "id": "prices-do-not-all-change-the-same-way:3",
@@ -413,7 +473,7 @@
       "meaning": "trở nên đắt hơn, tăng giá.",
       "collocation": "food becomes more expensive.",
       "example": "Imported fruit may become more expensive.",
-      "sourceStatus": "new"
+      "sourceStatus": "learning"
     },
     {
       "id": "prices-do-not-all-change-the-same-way:4",
@@ -422,7 +482,7 @@
       "meaning": "cuộc sống hằng ngày.",
       "collocation": "affect daily life, part of daily life.",
       "example": "Higher food prices affect daily life.",
-      "sourceStatus": "new"
+      "sourceStatus": "learning"
     },
     {
       "id": "prices-do-not-all-change-the-same-way:5",
@@ -431,7 +491,7 @@
       "meaning": "điện sinh hoạt của hộ gia đình.",
       "collocation": "household electricity prices/costs.",
       "example": "Household electricity became cheaper that year.",
-      "sourceStatus": "new"
+      "sourceStatus": "learning"
     },
     {
       "id": "prices-do-not-all-change-the-same-way:6",
@@ -440,7 +500,7 @@
       "meaning": "bù lại hoặc làm giảm tác động của một mức tăng.",
       "collocation": "partly help balance an increase.",
       "example": "Lower transport costs may balance an increase in rent.",
-      "sourceStatus": "new"
+      "sourceStatus": "learning"
     },
     {
       "id": "prices-do-not-all-change-the-same-way:7",
@@ -449,7 +509,70 @@
       "meaning": "giá đã tăng / giá đã giảm.",
       "collocation": "rise sharply, fall slightly.",
       "example": "Food prices rose, while energy prices fell.",
-      "sourceStatus": "new"
+      "sourceStatus": "learning"
+    },
+    {
+      "id": "simple-morning-routine:1",
+      "lessonKey": "simple-morning-routine",
+      "term": "morning routine",
+      "meaning": "thói quen hoặc chuỗi hoạt động thường làm vào buổi sáng.",
+      "collocation": "follow/create a morning routine.",
+      "example": "A simple morning routine helps me start work calmly.",
+      "sourceStatus": "learning"
+    },
+    {
+      "id": "simple-morning-routine:2",
+      "lessonKey": "simple-morning-routine",
+      "term": "before dawn",
+      "meaning": "trước bình minh, trước khi trời sáng.",
+      "collocation": "wake up/leave before dawn.",
+      "example": "I rarely wake up before dawn.",
+      "sourceStatus": "learning"
+    },
+    {
+      "id": "simple-morning-routine:3",
+      "lessonKey": "simple-morning-routine",
+      "term": "improve energy and mood",
+      "meaning": "cải thiện năng lượng và tâm trạng.",
+      "collocation": "improve your energy/mood.",
+      "example": "A short walk can improve energy and mood.",
+      "sourceStatus": "learning"
+    },
+    {
+      "id": "simple-morning-routine:4",
+      "lessonKey": "simple-morning-routine",
+      "term": "mental effort",
+      "meaning": "nỗ lực trí óc.",
+      "collocation": "require/save mental effort.",
+      "example": "A clear plan saves mental effort in the morning.",
+      "sourceStatus": "learning"
+    },
+    {
+      "id": "simple-morning-routine:5",
+      "lessonKey": "simple-morning-routine",
+      "term": "in contrast",
+      "meaning": "trái lại, ngược lại; dùng để nêu sự tương phản.",
+      "collocation": "in contrast to/with.",
+      "example": "My evening is busy. In contrast, my morning is quiet.",
+      "sourceStatus": "learning"
+    },
+    {
+      "id": "simple-morning-routine:6",
+      "lessonKey": "simple-morning-routine",
+      "term": "natural light",
+      "meaning": "ánh sáng tự nhiên.",
+      "collocation": "get/expose yourself to natural light.",
+      "example": "I open the curtains to get natural light.",
+      "sourceStatus": "learning"
+    },
+    {
+      "id": "simple-morning-routine:7",
+      "lessonKey": "simple-morning-routine",
+      "term": "fit a person's needs",
+      "meaning": "phù hợp với nhu cầu của một người.",
+      "collocation": "fit your needs/lifestyle/schedule.",
+      "example": "A useful routine should fit your needs.",
+      "sourceStatus": "learning"
     }
   ]
 }
