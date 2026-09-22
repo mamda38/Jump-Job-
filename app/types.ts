@@ -7,7 +7,7 @@ export type Question = {
 
 export type Lesson = {
   slug: string;
-  kind: "assessment" | "lesson";
+  kind: "assessment" | "lesson" | "review";
   title: string;
   displayTitle: string;
   topic: string;

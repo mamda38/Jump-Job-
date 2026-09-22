@@ -40,16 +40,24 @@ function TodayContent({ content }: { content: ContentData }) {
         <div className="hero-copy">
           <div className="chip-row">
             <span className="chip accent">{selected.topicLabel}</span>
-            <span className="chip">{selected.wordCount || "150–300"} từ</span>
+            <span className="chip">
+              {selected.kind === "review" ? `${selected.questions.length} hoạt động` : `${selected.wordCount || "150–300"} từ`}
+            </span>
           </div>
           <p className="hero-kicker">
-            {selected.kind === "assessment" ? "BƯỚC KHỞI ĐẦU" : "BÀI ĐỌC TIẾP THEO"}
+            {selected.kind === "assessment"
+              ? "BƯỚC KHỞI ĐẦU"
+              : selected.kind === "review"
+                ? "BUỔI ÔN TIẾP THEO"
+                : "BÀI ĐỌC TIẾP THEO"}
           </p>
           <h2>{selected.displayTitle}</h2>
           <p>
             {selected.kind === "assessment"
               ? "Tạo đường cơ sở để những bài sau vừa sức, không quá dễ và cũng không quá tải."
-              : "Đọc một lượt không dùng từ điển, sau đó trả lời bằng lời của chính bạn."}
+              : selected.kind === "review"
+                ? "Nhớ lại trước khi xem gợi ý. Buổi ôn này không đưa thêm từ mới."
+                : "Đọc một lượt không dùng từ điển, sau đó trả lời bằng lời của chính bạn."}
           </p>
           <Link className="primary-button" href={`/lessons/${selected.slug}`}>
             {state.lessons[selected.slug]?.status === "in-progress"

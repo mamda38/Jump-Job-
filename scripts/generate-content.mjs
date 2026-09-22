@@ -67,6 +67,7 @@ function cleanSlug(file) {
 
 function topicLabel(topic, kind) {
   if (kind === "assessment") return "Đánh giá";
+  if (kind === "review") return "Ôn tập";
   return { society: "Xã hội", economy: "Kinh tế", life: "Đời sống" }[topic] ?? "Bài đọc";
 }
 
@@ -194,6 +195,11 @@ const lessons = lessonFiles.map(({ name, raw }) => {
   const questions = orderedItems(
     section(parsed.body, [/Kiểm tra hiểu/i]),
   );
+  const readingSection = section(parsed.body, [/^(?:\d+\.\s*)?Đọc(?:\s+—.*)?$/i]);
+  const adaptedPassageTitle = readingSection.match(/^###\s+(.+)$/m)?.[1]?.trim();
+  const passage = adaptedPassageTitle
+    ? readingSection.replace(/^[\s\S]*?^###\s+.+\r?\n+/m, "").trim()
+    : readingSection;
   const lessonAnswerKey = lessonAnswerKeys.get(slug);
   const genericHints = [
     "Tập trung vào cách lịch làm việc này khác với khung giờ cố định.",
@@ -213,8 +219,8 @@ const lessons = lessonFiles.map(({ name, raw }) => {
     estimatedMinutes: parsed.data.estimated_minutes || "20-30",
     wordCount: Number(parsed.data.word_count || 250),
     introduction: section(parsed.body, [/Trước khi đọc/i]),
-    passageTitle: "Đọc tại nguồn",
-    passage: section(parsed.body, [/Đọc$/i]),
+    passageTitle: adaptedPassageTitle || "Đọc tại nguồn",
+    passage,
     questions: questions.map((text, index) => ({
       id: `q${index + 1}`,
       text,
@@ -242,9 +248,46 @@ const lessons = lessonFiles.map(({ name, raw }) => {
   };
 });
 
+const reviewFiles = (await readMarkdownFiles(path.join(learningRoot, "reviews"))).filter(
+  ({ name }) => /^\d{4}-\d{2}-\d{2}-.*\.md$/i.test(name),
+);
+const reviews = reviewFiles.map(({ name, raw }) => {
+  const parsed = parseFrontmatter(raw);
+  const slug = cleanSlug(name);
+  const reviewAnswerKey = lessonAnswerKeys.get(slug);
+  const questions = orderedItems(section(parsed.body, [/Câu hỏi/i]));
+  return {
+    slug,
+    kind: "review",
+    title: parsed.data.title || firstHeading(parsed.body),
+    displayTitle: firstHeading(parsed.body).replace(/^Buổi ôn:\s*/i, ""),
+    topic: "review",
+    topicLabel: topicLabel("review", "review"),
+    sourceStatus: parsed.data.status || "not-started",
+    estimatedMinutes: parsed.data.estimated_minutes || "20-25",
+    wordCount: Number(parsed.data.word_count || 0),
+    introduction: section(parsed.body, [/Hướng dẫn/i]),
+    passageTitle: "Nội dung ôn",
+    passage: section(parsed.body, [/Nội dung ôn/i]),
+    questions: questions.map((text, index) => ({
+      id: `q${index + 1}`,
+      text,
+      hint:
+        reviewAnswerKey?.hints[index] ||
+        "Hãy nhớ lại ngữ cảnh của bài cũ trước khi mở lại nội dung.",
+      answer: reviewAnswerKey?.answers[index] || "",
+    })),
+    source: null,
+    vocabularyIds: [],
+    grammar: section(parsed.body, [/Cấu trúc/i]),
+    conversation: section(parsed.body, [/Hội thoại/i]),
+    writingPrompt: section(parsed.body, [/Viết/i]),
+  };
+});
+
 const output = {
   generatedAt: new Date().toISOString(),
-  lessons: [baseline, ...lessons],
+  lessons: [baseline, ...lessons, ...reviews],
   vocabulary,
 };
 

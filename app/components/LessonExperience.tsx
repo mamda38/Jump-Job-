@@ -29,7 +29,9 @@ export function buildSubmissionExport(lesson: Lesson, saved: LessonProgress) {
     })
     .join("\n\n");
 
-  return `# Bài làm cần gia sư chấm\n\n**Bài:** ${lesson.displayTitle}\n**Thời gian đọc:** ${formatTime(saved.readingSeconds ?? 0)}\n**Mức hiểu tự đánh giá:** ${saved.understanding ?? "—"}%\n**Số lần tra cứu sau lượt đọc đầu:** ${saved.lookups ?? "—"}\n**Trạng thái:** ${saved.status === "completed" ? "Đã hoàn thành" : "Đang làm"}\n\n${answers}\n\n## Phần viết 2–3 câu\n\n${saved.journal?.trim() || "(chưa viết)"}\n\n---\n\nHãy chấm từng câu, giải thích điểm mạnh và lỗi quan trọng. Với câu chưa đúng, hãy gợi ý để tôi tự sửa trước, chưa đưa đáp án ngay. Sau khi tôi sửa xong, hãy cho điểm cuối và cập nhật PROGRESS.md.`;
+  const timeLabel = lesson.kind === "review" ? "Thời gian ôn" : "Thời gian đọc";
+  const lookupLabel = lesson.kind === "review" ? "Số lần mở lại bài cũ" : "Số lần tra cứu sau lượt đọc đầu";
+  return `# Bài làm cần gia sư chấm\n\n**Bài:** ${lesson.displayTitle}\n**${timeLabel}:** ${formatTime(saved.readingSeconds ?? 0)}\n**Mức hiểu tự đánh giá:** ${saved.understanding ?? "—"}%\n**${lookupLabel}:** ${saved.lookups ?? "—"}\n**Trạng thái:** ${saved.status === "completed" ? "Đã hoàn thành" : "Đang làm"}\n\n${answers}\n\n## Phần viết 2–3 câu\n\n${saved.journal?.trim() || "(chưa viết)"}\n\n---\n\nHãy chấm từng câu, giải thích điểm mạnh và lỗi quan trọng. Với câu chưa đúng, hãy gợi ý để tôi tự sửa trước, chưa đưa đáp án ngay. Sau khi tôi sửa xong, hãy cho điểm cuối và cập nhật PROGRESS.md.`;
 }
 
 function LessonContent({
@@ -107,14 +109,18 @@ function LessonContent({
       <header className="lesson-header">
         <div className="chip-row">
           <span className="chip accent">{lesson.topicLabel}</span>
-          <span className="chip">{lesson.wordCount || "150–300"} từ</span>
+          <span className="chip">
+            {lesson.kind === "review" ? `${lesson.questions.length} hoạt động` : `${lesson.wordCount || "150–300"} từ`}
+          </span>
           <span className="chip">{lesson.estimatedMinutes} phút</span>
         </div>
         <h1>{lesson.displayTitle}</h1>
         <p>
           {lesson.kind === "assessment"
             ? "Đây là điểm xuất phát, không phải một kỳ thi. Hãy làm tự nhiên nhất có thể."
-            : "Đọc để hiểu ý, không cần hiểu từng từ."}
+            : lesson.kind === "review"
+              ? "Hãy nhớ lại trước, chỉ xem gợi ý sau khi đã tự trả lời."
+              : "Đọc để hiểu ý, không cần hiểu từng từ."}
         </p>
       </header>
 
@@ -144,10 +150,10 @@ function LessonContent({
       <section className="reading-card">
         <div className="reading-toolbar">
           <div>
-            <span className="eyebrow">02 · Đọc</span>
+            <span className="eyebrow">02 · {lesson.kind === "review" ? "Ôn" : "Đọc"}</span>
             <h2>{lesson.passageTitle}</h2>
           </div>
-          <div className="timer" aria-label="Đồng hồ đọc">
+          <div className="timer" aria-label={lesson.kind === "review" ? "Đồng hồ ôn" : "Đồng hồ đọc"}>
             <strong>{formatTime(saved.readingSeconds ?? 0)}</strong>
             <button type="button" onClick={() => setTimerRunning((value) => !value)}>
               {timerRunning ? "Tạm dừng" : saved.readingSeconds ? "Tiếp tục" : "Bắt đầu giờ"}
@@ -328,7 +334,7 @@ function LessonContent({
             <strong>{saved.understanding ?? 75}%</strong>
           </div>
           <label className="lookup-field">
-            Số lần tra cứu sau lượt đọc đầu
+            {lesson.kind === "review" ? "Số lần mở lại bài cũ" : "Số lần tra cứu sau lượt đọc đầu"}
             <input
               type="number"
               min="0"

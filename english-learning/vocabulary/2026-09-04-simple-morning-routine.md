@@ -8,7 +8,7 @@ Không đọc phần **Nghĩa** trước khi thử đoán từ ngữ cảnh.
 - Collocation: follow/create a morning routine.
 - Câu ví dụ: A simple morning routine helps me start work calmly.
 - Câu của tôi: —
-- Ngày ôn: 2026-09-05
+- Ngày ôn: 2026-09-08
 - Trạng thái: learning
 
 ## 2. before dawn
@@ -17,7 +17,7 @@ Không đọc phần **Nghĩa** trước khi thử đoán từ ngữ cảnh.
 - Collocation: wake up/leave before dawn.
 - Câu ví dụ: I rarely wake up before dawn.
 - Câu của tôi: —
-- Ngày ôn: 2026-09-05
+- Ngày ôn: 2026-09-08
 - Trạng thái: learning
 
 ## 3. improve energy and mood
@@ -26,7 +26,7 @@ Không đọc phần **Nghĩa** trước khi thử đoán từ ngữ cảnh.
 - Collocation: improve your energy/mood.
 - Câu ví dụ: A short walk can improve energy and mood.
 - Câu của tôi: —
-- Ngày ôn: 2026-09-05
+- Ngày ôn: 2026-09-08
 - Trạng thái: learning
 
 ## 4. mental effort
@@ -35,7 +35,7 @@ Không đọc phần **Nghĩa** trước khi thử đoán từ ngữ cảnh.
 - Collocation: require/save mental effort.
 - Câu ví dụ: A clear plan saves mental effort in the morning.
 - Câu của tôi: —
-- Ngày ôn: 2026-09-05
+- Ngày ôn: 2026-09-08
 - Trạng thái: learning
 
 ## 5. in contrast
@@ -44,7 +44,7 @@ Không đọc phần **Nghĩa** trước khi thử đoán từ ngữ cảnh.
 - Collocation: in contrast to/with.
 - Câu ví dụ: My evening is busy. In contrast, my morning is quiet.
 - Câu của tôi: —
-- Ngày ôn: 2026-09-05
+- Ngày ôn: 2026-09-08
 - Trạng thái: learning
 
 ## 6. natural light
@@ -53,7 +53,7 @@ Không đọc phần **Nghĩa** trước khi thử đoán từ ngữ cảnh.
 - Collocation: get/expose yourself to natural light.
 - Câu ví dụ: I open the curtains to get natural light.
 - Câu của tôi: —
-- Ngày ôn: 2026-09-05
+- Ngày ôn: 2026-09-08
 - Trạng thái: learning
 
 ## 7. fit a person's needs
@@ -62,5 +62,5 @@ Không đọc phần **Nghĩa** trước khi thử đoán từ ngữ cảnh.
 - Collocation: fit your needs/lifestyle/schedule.
 - Câu ví dụ: A useful routine should fit your needs.
 - Câu của tôi: —
-- Ngày ôn: 2026-09-05
+- Ngày ôn: 2026-09-08
 - Trạng thái: learning

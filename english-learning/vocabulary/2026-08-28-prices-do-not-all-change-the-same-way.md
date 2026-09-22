@@ -8,7 +8,7 @@ Không đọc phần **Nghĩa** trước khi thử đoán từ ngữ cảnh.
 - Collocation: a high/low inflation rate, the inflation rate rises.
 - Câu ví dụ: The inflation rate was lower last month.
 - Câu của tôi: —
-- Ngày ôn: 2026-09-05
+- Ngày ôn: 2026-09-07
 - Trạng thái: learning
 
 ## 2. goods and services
@@ -17,7 +17,7 @@ Không đọc phần **Nghĩa** trước khi thử đoán từ ngữ cảnh.
 - Collocation: the cost of goods and services.
 - Câu ví dụ: People pay for many goods and services every week.
 - Câu của tôi: —
-- Ngày ôn: 2026-09-05
+- Ngày ôn: 2026-09-07
 - Trạng thái: learning
 
 ## 3. become more expensive
@@ -26,7 +26,7 @@ Không đọc phần **Nghĩa** trước khi thử đoán từ ngữ cảnh.
 - Collocation: food becomes more expensive.
 - Câu ví dụ: Imported fruit may become more expensive.
 - Câu của tôi: —
-- Ngày ôn: 2026-09-05
+- Ngày ôn: 2026-09-07
 - Trạng thái: learning
 
 ## 4. daily life
@@ -35,7 +35,7 @@ Không đọc phần **Nghĩa** trước khi thử đoán từ ngữ cảnh.
 - Collocation: affect daily life, part of daily life.
 - Câu ví dụ: Higher food prices affect daily life.
 - Câu của tôi: —
-- Ngày ôn: 2026-09-05
+- Ngày ôn: 2026-09-07
 - Trạng thái: learning
 
 ## 5. household electricity
@@ -44,7 +44,7 @@ Không đọc phần **Nghĩa** trước khi thử đoán từ ngữ cảnh.
 - Collocation: household electricity prices/costs.
 - Câu ví dụ: Household electricity became cheaper that year.
 - Câu của tôi: —
-- Ngày ôn: 2026-09-05
+- Ngày ôn: 2026-09-07
 - Trạng thái: learning
 
 ## 6. balance an increase
@@ -53,7 +53,7 @@ Không đọc phần **Nghĩa** trước khi thử đoán từ ngữ cảnh.
 - Collocation: partly help balance an increase.
 - Câu ví dụ: Lower transport costs may balance an increase in rent.
 - Câu của tôi: —
-- Ngày ôn: 2026-09-05
+- Ngày ôn: 2026-09-07
 - Trạng thái: learning
 
 ## 7. prices rose / prices fell
@@ -62,5 +62,5 @@ Không đọc phần **Nghĩa** trước khi thử đoán từ ngữ cảnh.
 - Collocation: rise sharply, fall slightly.
 - Câu ví dụ: Food prices rose, while energy prices fell.
 - Câu của tôi: —
-- Ngày ôn: 2026-09-05
+- Ngày ôn: 2026-09-07
 - Trạng thái: learning

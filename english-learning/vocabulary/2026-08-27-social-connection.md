@@ -8,8 +8,8 @@ Không đọc phần **Nghĩa** trước khi thử đoán từ ngữ cảnh.
 - Collocation: reduce social isolation, experience social isolation.
 - Câu ví dụ: Community activities can reduce social isolation.
 - Câu của tôi: —
-- Ngày ôn: 2026-08-28
-- Trạng thái: new
+- Ngày ôn: 2026-09-08
+- Trạng thái: learning
 
 ## 2. affect their health
 
@@ -17,7 +17,7 @@ Không đọc phần **Nghĩa** trước khi thử đoán từ ngữ cảnh.
 - Collocation: negatively affect health, affect mental health.
 - Câu ví dụ: Long periods of loneliness may affect their health.
 - Câu của tôi: —
-- Ngày ôn: 2026-08-28
+- Ngày ôn: 2026-09-06
 - Trạng thái: new
 
 ## 3. rebuild connection
@@ -26,7 +26,7 @@ Không đọc phần **Nghĩa** trước khi thử đoán từ ngữ cảnh.
 - Collocation: rebuild social connection, rebuild trust.
 - Câu ví dụ: Shared activities can help neighbors rebuild connection.
 - Câu của tôi: —
-- Ngày ôn: 2026-08-28
+- Ngày ôn: 2026-09-06
 - Trạng thái: new
 
 ## 4. exchange food
@@ -35,7 +35,7 @@ Không đọc phần **Nghĩa** trước khi thử đoán từ ngữ cảnh.
 - Collocation: exchange food and gifts.
 - Câu ví dụ: Neighbors meet once a week to exchange food.
 - Câu của tôi: —
-- Ngày ôn: 2026-08-28
+- Ngày ôn: 2026-09-06
 - Trạng thái: new
 
 ## 5. public spaces
@@ -44,8 +44,8 @@ Không đọc phần **Nghĩa** trước khi thử đoán từ ngữ cảnh.
 - Collocation: shared public spaces, create public spaces.
 - Câu ví dụ: Parks are useful public spaces for families.
 - Câu của tôi: —
-- Ngày ôn: 2026-08-28
-- Trạng thái: new
+- Ngày ôn: 2026-09-08
+- Trạng thái: learning
 
 ## 6. practical help
 
@@ -53,8 +53,8 @@ Không đọc phần **Nghĩa** trước khi thử đoán từ ngữ cảnh.
 - Collocation: give/offer practical help.
 - Câu ví dụ: Friends can offer practical help during difficult times.
 - Câu của tôi: —
-- Ngày ôn: 2026-08-28
-- Trạng thái: new
+- Ngày ôn: 2026-09-08
+- Trạng thái: learning
 
 ## 7. trust takes time to grow
 
@@ -62,5 +62,5 @@ Không đọc phần **Nghĩa** trước khi thử đoán từ ngữ cảnh.
 - Collocation: build trust, earn someone's trust.
 - Câu ví dụ: New teams should remember that trust takes time to grow.
 - Câu của tôi: —
-- Ngày ôn: 2026-08-28
+- Ngày ôn: 2026-09-06
 - Trạng thái: new

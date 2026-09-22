@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T09:54:03.043Z",
+  "generatedAt": "2026-09-22T06:33:17.793Z",
   "lessons": [
     {
       "slug": "baseline-assessment",
@@ -76,7 +76,7 @@
       "wordCount": 250,
       "introduction": "Nhìn vào từ *microshifting*. Theo bạn, nó có thể mô tả kiểu làm việc như thế nào?",
       "passageTitle": "Đọc tại nguồn",
-      "passage": "Nhìn vào từ *microshifting*. Theo bạn, nó có thể mô tả kiểu làm việc như thế nào?",
+      "passage": "Đọc một lượt không dùng từ điển. Ghi thời gian và trả lời bằng một câu:\n\n> What is the main idea of this section?",
       "questions": [
         {
           "id": "q1",
@@ -142,8 +142,8 @@
       "estimatedMinutes": "20-25",
       "wordCount": 180,
       "introduction": "Dựa vào tiêu đề, bạn nghĩ những “small actions” nào có thể giúp mọi người kết nối với nhau?",
-      "passageTitle": "Đọc tại nguồn",
-      "passage": "Dựa vào tiêu đề, bạn nghĩ những “small actions” nào có thể giúp mọi người kết nối với nhau?",
+      "passageTitle": "Small actions can rebuild social connection",
+      "passage": "Many people in the United States are spending less time with others. They join fewer clubs and community groups than people did in the past. Some also have fewer close friends. This social isolation can make people feel lonely and may affect their health.\n\nSmall local groups are trying to rebuild connection. In Baltimore, neighbors created shared places where people can meet, exchange food, and help care for children. In Ohio, community organizations support affordable housing, small businesses, and public spaces such as parks and coffee shops.\n\nThese projects do not offer one large solution. Instead, they create regular chances for people to talk and work together. Supporters believe personal relationships can make a neighborhood stronger. When people know one another, they may be more willing to give practical help during difficult times.\n\nThe work is often slow because trust takes time to grow. However, local leaders say small actions can still matter. A shared meal, a safe place to meet, or a simple conversation may reduce isolation. Their main idea is that communities become healthier when people build connections step by step.",
       "questions": [
         {
           "id": "q1",
@@ -202,8 +202,8 @@
       "estimatedMinutes": "20-25",
       "wordCount": 148,
       "introduction": "Nếu tỷ lệ lạm phát tăng, bạn nghĩ tất cả mặt hàng đều tăng giá giống nhau không?",
-      "passageTitle": "Đọc tại nguồn",
-      "passage": "Nếu tỷ lệ lạm phát tăng, bạn nghĩ tất cả mặt hàng đều tăng giá giống nhau không?",
+      "passageTitle": "Prices do not all change in the same way",
+      "passage": "Prices in Germany were higher in January 2026 than one year earlier. The inflation rate was 2.1%. Inflation means that the general cost of goods and services rises over time. However, not every price moved in the same direction.\n\nFood became more expensive. Prices rose for fruit, meat, sweets, and chocolate. Services also cost more, especially transport, rent, and some social services. These increases made daily life more expensive for many consumers.\n\nEnergy was different. Household electricity and natural gas became cheaper than a year earlier. Lower energy prices helped balance some of the increases in food and services. Butter, cooking oils, and potatoes also became cheaper.\n\nThis shows why one inflation number cannot describe every product. A rate of 2.1% does not mean all prices rose by exactly 2.1%. Some prices rose faster, while others fell. Consumers experience inflation differently because they buy different things.",
       "questions": [
         {
           "id": "q1",
@@ -262,8 +262,8 @@
       "estimatedMinutes": "20-25",
       "wordCount": 162,
       "introduction": "What do you usually do during the first hour after you wake up?\n\nTrả lời bằng một câu ngắn trước khi đọc.",
-      "passageTitle": "Đọc tại nguồn",
-      "passage": "What do you usually do during the first hour after you wake up?\n\nTrả lời bằng một câu ngắn trước khi đọc.",
+      "passageTitle": "A simple morning routine",
+      "passage": "Some popular videos show people following very long morning routines. They may wake before dawn, exercise, meditate, write in a journal, and do many other tasks before breakfast. Experts say most people do not need such a complicated routine.\n\nA simple, calm morning can still improve energy and mood. Doing a few tasks in the same order saves mental effort. It may also help people feel organized before work. In contrast, rushing through breakfast, washing, and travel can create stress.\n\nExperts suggest starting with two or three easy habits. Making the bed gives people one completed task. Drinking water is useful after a full night without it. A short walk gives the body natural light, which helps people feel awake. Some experts also advise eating before drinking coffee.\n\nThere is no perfect routine for everyone. The best routine is one that fits a person's needs and can be repeated. Small habits are more useful when they make the morning calmer, not busier.",
       "questions": [
         {
           "id": "q1",
@@ -310,6 +310,249 @@
       "grammar": "### help + someone + động từ nguyên mẫu\n\nSau *help + người*, dùng động từ nguyên mẫu.\n\n> Natural light helps people feel awake.\n\nHãy viết một câu về một thói quen giúp bạn bắt đầu ngày mới.\n\n### suggest + V-ing\n\nDùng để nói ai đó đề xuất làm một việc.\n\n> Experts suggest starting with easy habits.\n\nHãy hoàn thành: *I suggest starting the day by...*",
       "conversation": "1. Do you have a morning routine?\n2. Which morning habit gives you more energy?\n3. Is your morning usually calm or rushed? Why?",
       "writingPrompt": "Viết 2–3 câu tiếng Anh: mô tả thói quen buổi sáng hiện tại của bạn và nêu một thay đổi nhỏ bạn muốn thử."
+    },
+    {
+      "slug": "2026-09-05-libraries-offer-more-than-books",
+      "kind": "lesson",
+      "title": "Libraries offer more than books",
+      "displayTitle": "Libraries offer more than books",
+      "topic": "society",
+      "topicLabel": "Xã hội",
+      "sourceStatus": "completed",
+      "estimatedMinutes": "20-25",
+      "wordCount": 166,
+      "introduction": "Besides borrowing books, what service would you like a public library to offer?\n\nTrả lời bằng một câu ngắn trước khi đọc.",
+      "passageTitle": "Libraries offer more than books",
+      "passage": "Public libraries in several parts of the United States now offer more than books. Some run free fitness and cooking classes. Others provide food, conversations about mental health, or machines that check blood pressure. In Milwaukee, a mobile health team visits libraries and answers visitors' questions. Some visitors later decide to see a doctor.\n\nThese programs can reach people outside the usual health care system. Visitors do not need money, insurance, strong English skills, or identification to enter a library. This makes help easier to access for many residents.\n\nLibraries are useful places for these services because people already see them as trusted sources of reliable information. They are also public spaces where people of different ages and backgrounds can meet. In small towns, a library may connect residents with services that are not available nearby.\n\nHowever, a library cannot replace a hospital or a doctor. Its role is to offer basic support, share useful information, and help people find professional care when they need it.",
+      "questions": [
+        {
+          "id": "q1",
+          "text": "What is the main purpose of the passage?",
+          "hint": "Dùng *The passage explains...* và nêu vai trò mới của thư viện, không chỉ viết “The passage is about libraries.”",
+          "answer": "The passage explains how public libraries provide basic health support and connect residents with useful services and professional care."
+        },
+        {
+          "id": "q2",
+          "text": "Name three health-related services that libraries offer.",
+          "hint": "Tìm các danh từ chỉ dịch vụ trong đoạn 1. Không chọn kết quả của dịch vụ.",
+          "answer": "Any three: fitness classes, cooking classes, food support, mental-health conversations, blood-pressure checks, or answers from a mobile health team."
+        },
+        {
+          "id": "q3",
+          "text": "Why are these programs easier to access for many residents?",
+          "hint": "Tìm câu bắt đầu bằng *Visitors do not need...* rồi khái quát điểm chung của danh sách.",
+          "answer": "People can enter without money, insurance, strong English skills, or identification."
+        },
+        {
+          "id": "q4",
+          "text": "Why can we infer that libraries are suitable places for these services? Use two clues from the passage.",
+          "hint": "Đây là câu suy luận. Gạch chân một dấu hiệu về mức độ tin cậy và một dấu hiệu về khả năng mọi người gặp nhau. Nối hai dấu hiệu bằng *because*.",
+          "answer": "Libraries are suitable because people trust them as sources of reliable information and because they are public spaces open to people of different ages and backgrounds."
+        }
+      ],
+      "source": {
+        "publisher": "Associated Press (AP)",
+        "originalTitle": "“Libraries are offering free health and wellness classes across the US”",
+        "url": "https://apnews.com/article/libraries-health-blood-pressure-free-classes-exercise-0dd3a4a004e57e125b23d017aab18ad3",
+        "publishedAt": "2024-11-29",
+        "accessedAt": "2026-09-05",
+        "readingRange": "Bản đọc thích nghi 166 từ dựa trên phần mô tả các chương trình sức khỏe và vai trò công cộng của thư viện."
+      },
+      "vocabularyIds": [
+        "libraries-offer-more-than-books:1",
+        "libraries-offer-more-than-books:2",
+        "libraries-offer-more-than-books:3",
+        "libraries-offer-more-than-books:4",
+        "libraries-offer-more-than-books:5",
+        "libraries-offer-more-than-books:6",
+        "libraries-offer-more-than-books:7"
+      ],
+      "grammar": "### help + someone + động từ nguyên mẫu\n\nSau *help + người*, dùng động từ nguyên mẫu.\n\n> Libraries help people find professional care.\n\nHoàn thành: *Public spaces can help people...*\n\n### make + danh từ + tính từ\n\nDùng cấu trúc này để nói một điều khiến sự vật có đặc điểm nào đó.\n\n> This makes help easier to access.\n\nViết một câu bắt đầu bằng: *Clear information makes...*",
+      "conversation": "1. How often do you visit a public library?\n2. Which service in the passage is most useful? Why?\n3. What new service should libraries in your city offer?",
+      "writingPrompt": "Viết 2–3 câu tiếng Anh: chọn một dịch vụ thư viện nên cung cấp, giải thích ai sẽ được lợi và vì sao."
+    },
+    {
+      "slug": "2026-09-20-smaller-packages",
+      "kind": "lesson",
+      "title": "Smaller packages, the same price",
+      "displayTitle": "Smaller packages, the same price",
+      "topic": "economy",
+      "topicLabel": "Kinh tế",
+      "sourceStatus": "completed",
+      "estimatedMinutes": "20-30",
+      "wordCount": 156,
+      "introduction": "Ôn miệng ba cụm reliable information, mental health, professional care trước khi đọc.\n\nWhen you buy food, do you usually check the price, the weight, or both?\n\nTrả lời một câu ngắn. Chỉ đọc đoạn thích nghi trên giao diện, chưa cần mở bài báo gốc.",
+      "passageTitle": "Smaller packages, the same price",
+      "passage": "A product can become more expensive even when its price label does not change. Some companies reduce the amount inside a package but keep the same price. This practice is called shrinkflation.\n\nAn Associated Press report described smaller packages of coffee and tissues. It explained that companies face higher costs for materials, workers, and transport. Reducing the amount in each package is one way to respond to these costs.\n\nConsider this imaginary example. A shop sells a bag of rice for two dollars. Last month, the bag contained one kilogram. Now it contains only eight hundred grams. The customer pays the same amount of money but takes home less rice.\n\nTo compare the two bags fairly, the customer needs to check both the price and the weight. Looking only at the price label is not enough. A smaller package may still fit a shopper's budget for one visit, but it provides less food for that money.",
+      "questions": [
+        {
+          "id": "q1",
+          "text": "What is the main purpose of the passage?",
+          "hint": "Khái quát điều thay đổi và điều không đổi, rồi nêu điều người mua cần chú ý. Không chỉ ghi “The passage is about prices”.",
+          "answer": "The passage explains how smaller packages can make products more expensive even when the price stays the same, and why shoppers should check the quantity."
+        },
+        {
+          "id": "q2",
+          "text": "Name two costs that companies face, according to the passage.",
+          "hint": "Tìm danh sách sau higher costs trong đoạn 2 và chọn hai mục.",
+          "answer": "Any two: materials, workers, transport."
+        },
+        {
+          "id": "q3",
+          "text": "In the imaginary example, what changed about the bag of rice, and what stayed the same?",
+          "hint": "Đối chiếu hai thời điểm ở đoạn 3. Ghi rõ cả lượng gạo và giá tiền.",
+          "answer": "The weight fell from one kilogram to eight hundred grams, but the price remained two dollars."
+        },
+        {
+          "id": "q4",
+          "text": "Why might a shopper fail to notice that rice has become more expensive if they check only the price label? Use two clues.",
+          "hint": "Kết hợp hai dấu hiệu: số tiền trả và lượng gạo mang về. Giải thích mối quan hệ, không cần làm phép tính.",
+          "answer": "The label still shows two dollars, which can suggest nothing changed, but the shopper receives less rice for that money. The price per unit of rice has therefore increased."
+        }
+      ],
+      "source": {
+        "publisher": "Associated Press (AP), bản đăng lại trên Action News 5",
+        "originalTitle": "“No, you’re not imagining it — package sizes are shrinking”",
+        "url": "https://www.actionnews5.com/2022/06/08/no-youre-not-imagining-it-package-sizes-are-shrinking/",
+        "publishedAt": "2022-06-08 (ngày đăng trên trang được dùng)",
+        "accessedAt": "2026-09-20",
+        "readingRange": "Chỉ đọc bản thích nghi 156 từ bên dưới; đoạn đầu giải thích khái niệm từ bản tin AP, hai đoạn cuối là ví dụ giả định do gia sư tạo."
+      },
+      "vocabularyIds": [
+        "smaller-packages:1",
+        "smaller-packages:2",
+        "smaller-packages:3",
+        "smaller-packages:4",
+        "smaller-packages:5",
+        "smaller-packages:6",
+        "smaller-packages:7"
+      ],
+      "grammar": "### even when + mệnh đề\n\nNối hai ý có vẻ trái với điều ta mong đợi. Trong đoạn đầu, xác định chủ ngữ và động từ ở hai vế của câu chứa even when.\n\nHoàn thành bằng ý của bạn: I check the weight even when…\n\n### keep + danh từ + the same\n\nDùng để nói giữ điều gì không đổi. Tìm cụm này trong đoạn đầu và xác định điều được giữ nguyên.\n\nTạo câu với keep my routine the same.",
+      "conversation": "1. What food do you buy most often?\n2. Have you ever noticed a smaller package?\n3. Would you choose a smaller package or another brand? Why?\n\nTrả lời thành tiếng 1–2 câu mỗi lượt; có thể gửi câu trả lời để gia sư hỏi tiếp.",
+      "writingPrompt": "Viết 2–3 câu tiếng Anh: đề xuất một việc cửa hàng nên làm để giúp khách so sánh sản phẩm; nói rõ ai hưởng lợi và lợi ích là gì."
+    },
+    {
+      "slug": "2026-09-22-short-walk",
+      "kind": "lesson",
+      "title": "Making time for a short walk",
+      "displayTitle": "Making time for a short walk",
+      "topic": "life",
+      "topicLabel": "Đời sống",
+      "sourceStatus": "not-started",
+      "estimatedMinutes": "20-30",
+      "wordCount": 161,
+      "introduction": "Ôn nhanh trước khi đọc: reliable information nghĩa là gì? keep the same price nghĩa là gì? Hãy sửa “the price is stay” theo thì quá khứ.\n\nDo you prefer one long break or several short breaks? Trả lời một câu ngắn.\n\nChỉ đọc đoạn thích nghi trên giao diện. Mục tiêu hôm nay: mỗi câu trả lời dài 1–2 câu ngắn, đúng chủ thể; đọc lại bản đầu trước khi sửa để giữ ý đúng.",
+      "passageTitle": "Making time for a short walk",
+      "passage": "Walking can be a simple way to add movement to daily life. An Associated Press report explains that people do not need a gym membership to start. Walking with friends can also help people stay motivated. Short walks can be spread across the day instead of taking place in one long session.\n\nHere is an imaginary example. Lan works in an office and has a busy schedule. She wants to walk for thirty minutes, but she rarely has a long break. She decides to take three short walks: one before work, one after lunch, and one in the evening. Each walk lasts ten minutes.\n\nHer colleague Minh prefers one long walk after work. Sometimes a late meeting changes his plans, and he misses the whole walk. Lan may also miss a walk, but she can still do the other two.\n\nThese plans show two ways to use the same amount of time. A useful plan should fit a person's daily routine.",
+      "questions": [
+        {
+          "id": "q1",
+          "text": "What is the main purpose of the passage? Begin with “The passage explains…”",
+          "hint": "Xem đoạn kết: tác giả dùng hai người để giải thích điều gì về việc sắp xếp thời gian? Không chỉ nêu chủ đề walking.",
+          "answer": "The passage explains how short walks can fit into a busy day and why a walking plan should suit a person's routine."
+        },
+        {
+          "id": "q2",
+          "text": "According to paragraph 1, what do people not need to start walking, and what can help them stay motivated?",
+          "hint": "Có hai phần: một điều không cần có và một cách giữ động lực. Tìm trong đoạn đầu.",
+          "answer": "They do not need a gym membership; walking with friends can help them stay motivated."
+        },
+        {
+          "id": "q3",
+          "text": "When does Lan plan to walk, and how long does each walk last?",
+          "hint": "Đọc đoạn về Lan, liệt kê ba thời điểm rồi nêu thời lượng mỗi lượt.",
+          "answer": "Before work, after lunch, and in the evening; each walk lasts ten minutes."
+        },
+        {
+          "id": "q4",
+          "text": "If both Lan and Minh have a late meeting after work, why might Lan still complete part of her walking plan? Use two clues from the example.",
+          "hint": "Đối chiếu các thời điểm Lan đi bộ với thời điểm cuộc họp diễn ra và lịch của Minh. Đừng suy ra rằng Lan chắc chắn hoàn thành cả ba lượt.",
+          "answer": "Lan has walks before work and after lunch as well as in the evening. A late meeting may affect her evening walk, but she may already have done the other two. Minh plans only one walk after work, so he may miss his entire walk."
+        }
+      ],
+      "source": {
+        "publisher": "Associated Press (AP), bản đăng lại trên Medical Xpress",
+        "originalTitle": "“What makes walking so great for your health and what else you need to do”",
+        "url": "https://medicalxpress.com/news/2024-11-great-health.html",
+        "publishedAt": "2024-11-13",
+        "accessedAt": "2026-09-22",
+        "readingRange": "Chỉ đọc 161 từ bên dưới. Đoạn 1 tóm tắt một số ý từ AP; tình huống Lan và Minh ở các đoạn sau do gia sư tạo để luyện suy luận."
+      },
+      "vocabularyIds": [
+        "short-walk:1",
+        "short-walk:2",
+        "short-walk:3",
+        "short-walk:4",
+        "short-walk:5",
+        "short-walk:6",
+        "short-walk:7"
+      ],
+      "grammar": "### instead of + V-ing\n\n“Short walks can be spread across the day instead of taking place in one long session.”\n\nXác định hai cách được so sánh. Hoàn thành bằng ý cá nhân: “I take a short break instead of…”\n\n### but + mệnh đề\n\n“Lan may also miss a walk, but she can still do the other two.”\n\nXác định chủ ngữ và động từ ở mỗi vế. Khi trả lời, chỉ dùng but nếu hai ý tương phản; không đổi chủ thể khi không cần.",
+      "conversation": "1. When do you usually have a short break?\n2. Do you prefer walking alone or with a friend? Why?\n3. What could you change if your usual plan becomes difficult?\n\nNói 1–2 câu mỗi lượt. Ưu tiên ý rõ trước độ dài câu.",
+      "writingPrompt": "Viết 2–3 câu tiếng Anh về một hoạt động muốn duy trì: thời điểm, một trở ngại và cách điều chỉnh. Giữ cùng chủ thể I; dùng but hoặc because đúng quan hệ ý."
+    },
+    {
+      "slug": "2026-09-05-overdue-review",
+      "kind": "review",
+      "title": "Review 01: Recall, paraphrase and inference",
+      "displayTitle": "Recall, paraphrase and inference",
+      "topic": "review",
+      "topicLabel": "Ôn tập",
+      "sourceStatus": "completed",
+      "estimatedMinutes": "20-25",
+      "wordCount": 65,
+      "introduction": "- Bật đồng hồ cho toàn bộ buổi ôn.\n- Không mở bài cũ hoặc từ điển trong lượt đầu.\n- Trả lời cả câu chưa chắc chắn; sau đó mới xem gợi ý.\n- Trường “số lần mở lại bài cũ” ghi số lần bạn phải quay lại các bài trước.",
+      "passageTitle": "Nội dung ôn",
+      "passage": "### Mini-text A\n\nMai follows three simple habits every morning. They fit her schedule, so she can repeat them every day. Minh plans ten activities before work. He often feels rushed and stops after a few days.\n\n### Mini-text B\n\nFood and rent became more expensive, but some energy prices fell. The report uses these examples to show that one inflation number does not describe every product.",
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Explain these three phrases in Vietnamese or simple English: **social isolation**, **public spaces**, and **practical help**.",
+          "hint": "Nhớ lại bài Social connection: một cụm nói về cô lập, một cụm là nơi mọi người cùng sử dụng, một cụm là sự giúp đỡ giải quyết nhu cầu thực tế.",
+          "answer": "**Social isolation**: sự cô lập xã hội; **public spaces**: không gian công cộng; **practical help**: sự giúp đỡ thiết thực."
+        },
+        {
+          "id": "q2",
+          "text": "Write one English sentence using **public spaces** or **practical help**.",
+          "hint": "Câu cần có chủ ngữ và động từ đã chia. Có thể nghĩ đến công viên hoặc giúp một người trong lúc khó khăn.",
+          "answer": "Ví dụ: Parks are useful public spaces where neighbors can meet."
+        },
+        {
+          "id": "q3",
+          "text": "Paraphrase without copying: **Small local groups are trying to rebuild connection.**",
+          "hint": "Đóng câu gốc lại. Có thể thay *small local groups* bằng *community groups* và *rebuild connection* bằng một cụm đơn giản hơn.",
+          "answer": "Ví dụ: Small community groups are working to help people connect again."
+        },
+        {
+          "id": "q4",
+          "text": "According to Mini-text A, why is Mai more likely than Minh to continue her routine?",
+          "hint": "So sánh số hoạt động và cụm *fit her schedule* với việc Minh cảm thấy *rushed*.",
+          "answer": "Mai is more likely to continue because her three habits fit her schedule and do not make her feel rushed."
+        },
+        {
+          "id": "q5",
+          "text": "What is the main purpose of Mini-text B? Begin with **The text explains...**",
+          "hint": "Không chỉ viết chủ đề inflation. Nêu điều văn bản muốn làm rõ về một con số lạm phát và các mức giá khác nhau.",
+          "answer": "The text explains why one inflation number does not mean that every product changes price in the same way."
+        },
+        {
+          "id": "q6",
+          "text": "Translate into English: **Giá của một số mặt hàng tăng, trong khi giá của những mặt hàng khác giảm.**",
+          "hint": "Dùng cấu trúc `Some..., while others...` và giữ *prices* làm chủ thể của cả hai vế.",
+          "answer": "Some prices rose, while others fell."
+        },
+        {
+          "id": "q7",
+          "text": "Correct this sentence: **One change I want to make is to try is maintaining these habits.**",
+          "hint": "Câu đang trộn hai khung. Chọn `I want to try to...` hoặc `One change I want to make is to...`.",
+          "answer": "One change I want to make is to maintain these habits. / I want to try to maintain these habits."
+        }
+      ],
+      "source": null,
+      "vocabularyIds": [],
+      "grammar": "- Giữ cùng chủ thể trong hai vế: `Some prices rose, while others fell.`\n- Chọn một khung, không trộn: `I want to try to...` hoặc `One change I want to make is to...`",
+      "conversation": "Trả lời thành tiếng, mỗi câu 1–2 câu:\n\n1. Which morning habit is easiest for you to maintain?\n2. Which public space do you use most often?\n3. Which price change affects your daily life most?",
+      "writingPrompt": "Viết 2–3 câu tiếng Anh: nêu một kỹ năng đọc bạn cần cải thiện và một cách cụ thể bạn sẽ luyện kỹ năng đó."
     }
   ],
   "vocabulary": [
@@ -392,7 +635,7 @@
       "meaning": "sự cô lập xã hội, tình trạng ít kết nối với người khác.",
       "collocation": "reduce social isolation, experience social isolation.",
       "example": "Community activities can reduce social isolation.",
-      "sourceStatus": "new"
+      "sourceStatus": "learning"
     },
     {
       "id": "social-connection:2",
@@ -428,7 +671,7 @@
       "meaning": "không gian công cộng.",
       "collocation": "shared public spaces, create public spaces.",
       "example": "Parks are useful public spaces for families.",
-      "sourceStatus": "new"
+      "sourceStatus": "learning"
     },
     {
       "id": "social-connection:6",
@@ -437,7 +680,7 @@
       "meaning": "sự giúp đỡ thiết thực, trực tiếp giải quyết nhu cầu.",
       "collocation": "give/offer practical help.",
       "example": "Friends can offer practical help during difficult times.",
-      "sourceStatus": "new"
+      "sourceStatus": "learning"
     },
     {
       "id": "social-connection:7",
@@ -573,6 +816,195 @@
       "collocation": "fit your needs/lifestyle/schedule.",
       "example": "A useful routine should fit your needs.",
       "sourceStatus": "learning"
+    },
+    {
+      "id": "libraries-offer-more-than-books:1",
+      "lessonKey": "libraries-offer-more-than-books",
+      "term": "public library",
+      "meaning": "thư viện công cộng.",
+      "collocation": "visit/use a public library.",
+      "example": "Anyone can use the public library in my neighborhood.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "libraries-offer-more-than-books:2",
+      "lessonKey": "libraries-offer-more-than-books",
+      "term": "mental health",
+      "meaning": "sức khỏe tinh thần.",
+      "collocation": "support/improve mental health.",
+      "example": "Talking to someone can support mental health.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "libraries-offer-more-than-books:3",
+      "lessonKey": "libraries-offer-more-than-books",
+      "term": "blood pressure",
+      "meaning": "huyết áp.",
+      "collocation": "check/high blood pressure.",
+      "example": "The machine can check your blood pressure.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "libraries-offer-more-than-books:4",
+      "lessonKey": "libraries-offer-more-than-books",
+      "term": "health care system",
+      "meaning": "hệ thống chăm sóc sức khỏe.",
+      "collocation": "access/use the health care system.",
+      "example": "Some people have difficulty accessing the health care system.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "libraries-offer-more-than-books:5",
+      "lessonKey": "libraries-offer-more-than-books",
+      "term": "identification",
+      "meaning": "giấy tờ nhận dạng, giấy tờ tùy thân.",
+      "collocation": "show/provide identification.",
+      "example": "Visitors do not need to show identification.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "libraries-offer-more-than-books:6",
+      "lessonKey": "libraries-offer-more-than-books",
+      "term": "reliable information",
+      "meaning": "thông tin đáng tin cậy.",
+      "collocation": "provide/find reliable information.",
+      "example": "Libraries help residents find reliable information.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "libraries-offer-more-than-books:7",
+      "lessonKey": "libraries-offer-more-than-books",
+      "term": "professional care",
+      "meaning": "sự chăm sóc từ người có chuyên môn.",
+      "collocation": "need/receive professional care.",
+      "example": "A serious health problem requires professional care.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "smaller-packages:1",
+      "lessonKey": "smaller-packages",
+      "term": "price label",
+      "meaning": "nhãn ghi giá.",
+      "collocation": "read/check a price label.",
+      "example": "The price label is difficult to read.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "smaller-packages:2",
+      "lessonKey": "smaller-packages",
+      "term": "reduce the amount",
+      "meaning": "giảm lượng.",
+      "collocation": "reduce the amount of something.",
+      "example": "I want to reduce the amount of sugar in my tea.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "smaller-packages:3",
+      "lessonKey": "smaller-packages",
+      "term": "keep the same price",
+      "meaning": "giữ nguyên giá.",
+      "collocation": "keep/pay the same price.",
+      "example": "The cafe plans to keep the same price for tea.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "smaller-packages:4",
+      "lessonKey": "smaller-packages",
+      "term": "shrinkflation",
+      "meaning": "hiện tượng lượng sản phẩm giảm nhưng giá không giảm tương ứng.",
+      "collocation": "notice/experience shrinkflation.",
+      "example": "A shopper may notice shrinkflation after checking the weight.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "smaller-packages:5",
+      "lessonKey": "smaller-packages",
+      "term": "higher costs",
+      "meaning": "chi phí cao hơn.",
+      "collocation": "face/cover higher costs.",
+      "example": "The shop faces higher costs this year.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "smaller-packages:6",
+      "lessonKey": "smaller-packages",
+      "term": "compare",
+      "meaning": "so sánh.",
+      "collocation": "compare prices/products.",
+      "example": "I compare two products before buying one.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "smaller-packages:7",
+      "lessonKey": "smaller-packages",
+      "term": "fit a shopper's budget",
+      "meaning": "phù hợp với ngân sách của người mua.",
+      "collocation": "fit my/your budget.",
+      "example": "This small bag fits my budget.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "short-walk:1",
+      "lessonKey": "short-walk",
+      "term": "gym membership",
+      "meaning": "tư cách thành viên/thẻ tập tại phòng gym.",
+      "collocation": "pay for a gym membership.",
+      "example": "I do not have a gym membership.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "short-walk:2",
+      "lessonKey": "short-walk",
+      "term": "stay motivated",
+      "meaning": "duy trì động lực.",
+      "collocation": "help someone stay motivated.",
+      "example": "A friend helps me stay motivated.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "short-walk:3",
+      "lessonKey": "short-walk",
+      "term": "spread across the day",
+      "meaning": "phân bổ trong suốt ngày.",
+      "collocation": "spread activities across the day.",
+      "example": "I spread my study breaks across the day.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "short-walk:4",
+      "lessonKey": "short-walk",
+      "term": "busy schedule",
+      "meaning": "lịch trình bận rộn.",
+      "collocation": "have a busy schedule.",
+      "example": "I have a busy schedule on Mondays.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "short-walk:5",
+      "lessonKey": "short-walk",
+      "term": "take a short walk",
+      "meaning": "đi bộ một quãng hoặc một lúc ngắn.",
+      "collocation": "take a short walk after lunch.",
+      "example": "I take a short walk near my office.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "short-walk:6",
+      "lessonKey": "short-walk",
+      "term": "miss a walk",
+      "meaning": "bỏ lỡ một buổi đi bộ.",
+      "collocation": "miss a walk/meeting/class.",
+      "example": "I sometimes miss a walk when I work late.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "short-walk:7",
+      "lessonKey": "short-walk",
+      "term": "daily routine",
+      "meaning": "thói quen/chuỗi hoạt động hằng ngày.",
+      "collocation": "fit/change a daily routine.",
+      "example": "Reading is part of my daily routine.",
+      "sourceStatus": "new"
     }
   ]
 }

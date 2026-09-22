@@ -10,7 +10,11 @@
 
 - Đọc được câu đơn giản và bài báo ngắn.
 - Vẫn cần tra một số từ và cấu trúc.
-- Chưa có điểm đường cơ sở; sẽ cập nhật sau bài đánh giá đầu vào.
+- Đường cơ sở ngày 2026-08-26: 2,5/7 câu đọc hiểu, mức hiểu tự đánh giá 70% và 5 lần tra cứu.
+- Hiện làm tốt hơn với chi tiết được nêu trực tiếp và paraphrase câu đơn giản; mục đích tác giả, suy luận và nhớ từ độc lập vẫn chưa ổn định.
+- Cập nhật 2026-09-22: Libraries đạt 3,5/4 lần đầu; Smaller packages đạt 3/4 cả trước và sau sửa. Tra cứu lần lượt 4 và 2 lần. Ưu tiên câu trả lời ngắn, đúng chủ thể và giữ nguyên ý khi sửa; chưa tăng độ khó.
+- Chưa gán mức CEFR chính thức vì số bài còn ít và dữ liệu thời gian đọc chưa đồng nhất.
+- Đánh giá chi tiết và kế hoạch điều chỉnh được lưu trong [`PROGRESS.md`](./PROGRESS.md#đánh-giá-quá-trình-học-tập).
 
 ## Sở thích học đã chốt
 
@@ -34,5 +38,5 @@
 - Chủ đề yêu thích: —
 - Chủ đề không muốn học: —
 - Khung giờ học thường xuyên: —
-- Điểm mạnh: tìm được các chi tiết được nêu trực tiếp; hiểu được ý tưởng thực tế chính của bài; nhận ra được lợi ích và bất lợi cơ bản.
+- Điểm mạnh: tìm được các chi tiết được nêu trực tiếp; hiểu được ý tưởng thực tế chính của bài; nhận ra được lợi ích và bất lợi cơ bản; paraphrase tốt câu đơn giản khi có đủ ngữ cảnh.
 - Điểm cần cải thiện: phân biệt chủ đề với mục đích tác giả; trả lời đúng chủ thể của câu hỏi; suy luận nghĩa từ ngữ cảnh; paraphrase; viết câu tiếng Anh có chủ ngữ và động từ hoàn chỉnh.
