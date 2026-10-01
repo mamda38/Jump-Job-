@@ -3,9 +3,9 @@
 ## Trạng thái hiện tại
 
 - Giai đoạn: Đã chốt đánh giá bốn tuần theo bản nộp đầu tiên có hỗ trợ
-- Bài đang học: —; A community repair day đã chốt ngày 2026-10-01
-- Buổi tiếp theo: Ôn ngắn, đọc đoạn kinh tế 120–150 từ và trả lời đủ các vế; chưa tạo bài mới
-- Chủ đề bài mới kế tiếp: Kinh tế; giảm tải để luyện đọc trong 20–30 phút
+- Bài đang học: Trying a cheaper brand — chưa bắt đầu
+- Buổi tiếp theo: Ôn 2 cụm cũ, đọc bài 128 từ, lưu bản đầu và ghi riêng thời gian đọc/tra từ/đọc lại
+- Chủ đề bài mới kế tiếp: Đời sống; giữ nhịp 20–30 phút
 - Ngày đánh giá 4 tuần tiếp theo: 2026-10-29 (dự kiến)
 - Tỷ lệ tiếng Việt hiện tại: khoảng 80% phần giải thích
 
@@ -25,6 +25,32 @@
 ## Đánh giá quá trình học tập
 
 ### Đánh giá gần nhất — 2026-10-01
+
+#### Tổng hợp quá trình từ đầu vào đến nay
+
+Kết luận: đã có bằng chứng tiến bộ về cách diễn đạt ý và xử lý một số câu lý do/so sánh, nhưng chưa đạt mục tiêu đọc hiểu tốt trong thời gian hằng ngày. Cần ưu tiên đọc hiệu quả và trả lời đủ ý trước khi tăng độ dài.
+
+| Mặt đánh giá | Bằng chứng | Hướng luyện |
+|---|---|---|
+| Ý chính | Từ nêu chủ đề ở bài đầu đến nêu được dịch vụ, khó khăn và điều chỉnh trong Repair day; vẫn thiếu ý thử nghiệm | Viết một câu ngắn bao quát thông điệp, không chỉ kể ví dụ |
+| Chi tiết | Câu 4 Repair day đúng; câu 3 nhầm khó khăn nguồn lực với hai mục đích yêu cầu mô tả trước; Short walk thiếu ba thời điểm | Đếm số phần câu hỏi; gắn mỗi ý trả lời với một chi tiết khác nhau |
+| Suy luận/so sánh | Libraries và Short walk đạt trọn điểm câu suy luận; Repair day phân biệt đúng mục tiêu chung và ưu tiên | Giữ chủ thể nhất quán; nối hai dấu hiệu cụ thể |
+| Từ vựng | Review 01 từng cần gợi ý để nhớ nghĩa; hai câu từ trong Repair day cũng dùng gợi ý | Kiểm tra nhớ lại/đoán nghĩa trước khi mở hỗ trợ, chưa kết luận đã ghi nhớ bền vững |
+| Viết | Từ tiếng Việt/câu rời sang đoạn tiếng Anh có lý do, although/because; vài bài thiếu một yêu cầu của đề | Hai hoặc ba câu ngắn, đủ ý; mỗi buổi sửa một lỗi quan trọng |
+| Hiệu quả đọc | Repair day 219 từ mất 59:43 chỉ đọc có 3 lần tra; dữ liệu thời gian các bài trước không đồng nhất | Đo riêng lượt đầu, tra cứu và đọc lại; chưa quy nguyên nhân cho dịch từng từ hoặc thiếu từ vựng |
+
+Điểm 2,5/7 đầu vào và 6/7 hiện tại không phải phép đo mức tăng chuẩn hóa: bài khác nhau và bài mới có hỗ trợ. Tự đánh giá 90–100% ở nhiều bài phản ánh cảm giác hiểu; cần đối chiếu thêm độ đầy đủ câu trả lời. Chưa có dữ liệu để đánh giá giao tiếp nói hoặc xếp CEFR.
+
+#### Kế hoạch cho ba buổi tiếp theo
+
+- Hai bài mới 120–150 từ, xen một buổi ôn ngắn; mỗi bài 6 cụm, một cấu trúc, 3–4 câu hỏi. Bài ngắn là điều chỉnh tạm thời theo kết quả đã thống nhất.
+- Lượt đầu tối đa 5 phút chưa tra từ: ghi một ý chính và đánh dấu chỗ chưa hiểu. Tối đa 3–5 phút tra/đọc lại có mục tiêu; chưa cần hiểu mọi từ mới trả lời.
+- Ghi rõ thời gian tra từ và đọc lại trong phần ghi chú bài xuất, bên cạnh đồng hồ đọc. Nếu chưa đọc xong khi hết thời gian, ghi vị trí dừng và khó khăn; không ép hoàn thành rồi ghi thời gian không chính xác.
+- Đếm các vế câu hỏi trước khi trả lời; chốt điểm từ bản đầu, ghi rõ mọi hỗ trợ. Lượt sửa nếu thực hiện chỉ dùng để học, không thay điểm đầu.
+- Sau ba buổi: xem đồng thời khả năng nêu ý chính, câu trả lời đủ ý, thời gian và mức cần hỗ trợ. Nếu vẫn thường vượt 10 phút cho đoạn ngắn, giảm câu phức tạp và luyện đọc theo cụm trên 1–2 câu; chưa tăng độ khó chỉ vì tự đánh giá cao.
+- Giữ toàn buổi tối đa 30 phút, hội thoại 3–5 phút; hết giờ thì để phần chưa xong cho buổi sau. Đánh giá bốn tuần tiếp theo dự kiến 2026-10-29.
+
+#### Kết quả chi tiết bài đánh giá bốn tuần
 
 - Theo yêu cầu, chấm và chốt ngay bản nộp đầu tiên A community repair day, không yêu cầu thêm lượt sửa.
 - Điểm nội dung: 6/7 (85,7%). Câu 1–7 lần lượt: 0,75; 1; 0,5; 1; 1; 1; 0,75. Câu 2 chấp nhận lợi ích học kỹ năng ở đoạn 1 vì câu hỏi không giới hạn đoạn; không ép khớp đáp án mẫu.
@@ -153,6 +179,7 @@ Lịch từ mới dựa trên ngày học thực tế; các mục quá hạn v�
 | 2026-09-29 | 7 cụm Making time for a short walk, chia nhóm 3–4 cụm | Short walk | ôn bù, chưa rõ ngày học thực tế | pending; sau khi ôn đặt mốc +3, +7, +14, +28 |
 | 2026-09-29 | Trả lời đủ hai vế và đúng chi tiết thời gian | Short walk | ôn sau đánh giá | pending |
 | 2026-10-02, 04, 08, 15, 29 | 6 cụm A community repair day, chia nhóm 3 cụm | Đánh giá bốn tuần | +1, +3, +7, +14, +28 từ ngày nộp/chốt | pending |
+| 2026-10-02, 04, 08, 15, 29 | 6 cụm Trying a cheaper brand | Cheaper brand | +1, +3, +7, +14, +28 nếu học 2026-10-01 | pending — điều chỉnh theo ngày học thực tế |
 | 2026-09-08 | Suy luận bằng cách kết hợp hai câu | Morning routine + Review 01 | +3 | pending |
 | 2026-09-12 | Paraphrase bằng từ đồng nghĩa và đổi cấu trúc | Review 01 | +7 | pending |
 

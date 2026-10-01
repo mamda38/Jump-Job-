@@ -28,6 +28,7 @@
 - Giao tiếp: khoảng 20%, tương đương 3–5 phút mỗi buổi.
 - Viết: 2–3 câu sau mỗi bài.
 - Độ khó mục tiêu: hiểu khoảng 75–85%.
+- Điều chỉnh sau đánh giá 2026-10-01: tạm dùng bài 120–150 từ, mỗi buổi 6 cụm và một cấu trúc; ghi riêng thời gian đọc, tra cứu và đọc lại. Chốt điểm từ bản đầu với điều kiện hỗ trợ minh bạch; tự sửa dùng để luyện, không thay điểm ban đầu.
 
 ## Nguồn ưu tiên
 

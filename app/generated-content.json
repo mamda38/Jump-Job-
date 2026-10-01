@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T03:40:12.669Z",
+  "generatedAt": "2026-10-01T04:49:29.616Z",
   "lessons": [
     {
       "slug": "baseline-assessment",
@@ -569,6 +569,65 @@
       "writingPrompt": "Viết 2–3 câu tiếng Anh: bạn có muốn tham gia ngày sửa đồ trong tình huống này không? Nêu một lý do và một khó khăn cụ thể. Làm sau phần đọc hiểu; chấm riêng."
     },
     {
+      "slug": "2026-10-01-cheaper-brand",
+      "kind": "lesson",
+      "title": "Trying a cheaper brand",
+      "displayTitle": "Trying a cheaper brand",
+      "topic": "economy",
+      "topicLabel": "Kinh tế",
+      "sourceStatus": "not-started",
+      "estimatedMinutes": "20-30",
+      "wordCount": 128,
+      "introduction": "Ôn hai cụm in advance và keep the same price trong 2 phút.\n\nDo you usually buy the same brand of food? Trả lời một câu ngắn.\n\nMục tiêu: đọc lấy ý, rồi trả lời đủ các vế. Chỉ đọc đoạn 128 từ trên giao diện; chưa mở nguồn, gợi ý hoặc từ vựng.\n\nLượt đầu tối đa 5 phút chưa tra từ; ghi một câu ý chính. Dành tối đa 3–5 phút tra/đọc lại chỗ cần thiết. Ghi riêng thời gian lượt đầu, tra từ và đọc lại; chỉ bật đồng hồ trong phần đọc. Sau khi trả lời, xuất bản đầu để gia sư chấm; nếu xem gợi ý, ghi câu đã xem. Hết 30 phút thì dừng và ghi phần chưa làm.",
+      "passageTitle": "Trying a cheaper brand",
+      "passage": "When food prices rise, shoppers may change what they buy. An Associated Press report described people choosing cheaper brands, visiting discount stores, or buying fewer snacks. These choices can help households control their spending.\n\nConsider this imaginary example. Mai buys cereal every week. Her usual box costs four dollars. A different brand costs three dollars for the same weight. She checks the ingredients and buys one box to try.\n\nMai likes the cheaper cereal, so she buys it again. She saves one dollar each week without buying less food. However, she keeps her usual tea because she prefers its taste.\n\nHer choices show that saving money does not require changing everything. Comparing similar products and trying a small amount can help a shopper decide what works for them.",
+      "questions": [
+        {
+          "id": "q1",
+          "text": "What is the main purpose of the passage?",
+          "hint": "Đoạn cuối rút ra điều gì từ lựa chọn của Mai? Tránh chỉ viết “food prices”.",
+          "answer": "The passage explains how trying and comparing cheaper products can help shoppers save money without changing everything they buy."
+        },
+        {
+          "id": "q2",
+          "text": "What two things does Mai check before trying the different cereal brand?",
+          "hint": "Một điều giúp so sánh số tiền cho cùng lượng sản phẩm; điều còn lại liên quan thứ có trong thực phẩm. Đọc đoạn 2.",
+          "answer": "She compares the prices for the same weight and checks the ingredients. Chấp nhận “price and ingredients”, không bắt buộc nhắc trọng lượng nếu ý so sánh giá rõ."
+        },
+        {
+          "id": "q3",
+          "text": "How much does Mai save each week, and why does she keep her usual tea?",
+          "hint": "Câu có hai phần: số tiền tiết kiệm và lý do giữ trà cũ. Tìm trong đoạn 3.",
+          "answer": "She saves one dollar per week and keeps her usual tea because she prefers its taste."
+        },
+        {
+          "id": "q4",
+          "text": "Why might buying only one box be a useful first step when trying a different brand?",
+          "hint": "Đây là suy luận. Trước khi thử, Mai đã biết mình thích loại mới chưa? Một hộp khác với mua nhiều hộp như thế nào?",
+          "answer": "She can find out whether she likes the new cereal before spending money on more boxes, so she risks wasting less money or food."
+        }
+      ],
+      "source": {
+        "publisher": "Associated Press (AP), bản đăng lại trên Food Manufacturing",
+        "originalTitle": "“Consumers Are Increasingly Pushing Back Against Price Increases — and Winning”",
+        "url": "https://www.foodmanufacturing.com/consumer-trends/news/22888124/consumers-are-increasingly-pushing-back-against-price-increases-and-winning",
+        "publishedAt": "2024-02-26 (bản đăng lại được dùng; AP đăng đầu ngày 2024-02-24)",
+        "accessedAt": "2026-10-01",
+        "readingRange": "Chỉ đọc 128 từ dưới đây. Đoạn đầu tóm tắt một ý từ AP; tình huống Mai, giá tiền và lựa chọn mua hàng do gia sư tạo."
+      },
+      "vocabularyIds": [
+        "cheaper-brand:1",
+        "cheaper-brand:2",
+        "cheaper-brand:3",
+        "cheaper-brand:4",
+        "cheaper-brand:5",
+        "cheaper-brand:6"
+      ],
+      "grammar": "### without + V-ing\n\nTìm câu chứa without trong đoạn 3 và xác định hành động không xảy ra.\n\nVí dụ mới: I relax without watching videos.\n\nViết một câu ngắn theo khung: I can ___ without ___.",
+      "conversation": "1. What food do you buy every week?\n2. Which matters more to you: price or taste? Why?\n3. Would you try a different brand? Why?\n\nMỗi lượt trả lời 1–2 câu thành tiếng; có thể tiếp tục trao đổi với gia sư.",
+      "writingPrompt": "Viết 2–3 câu tiếng Anh: nêu một sản phẩm có thể thử đổi nhãn hiệu, một lý do và một điều muốn kiểm tra trước khi mua."
+    },
+    {
       "slug": "2026-09-05-overdue-review",
       "kind": "review",
       "title": "Review 01: Recall, paraphrase and inference",
@@ -1135,6 +1194,60 @@
       "meaning": "lâu dài, cố định thay vì tạm thời.",
       "collocation": "a permanent plan/solution.",
       "example": "We need a permanent place for our meetings.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "cheaper-brand:1",
+      "lessonKey": "cheaper-brand",
+      "term": "cheaper brands",
+      "meaning": "các nhãn hiệu có giá rẻ hơn.",
+      "collocation": "choose/try cheaper brands.",
+      "example": "Some shoppers choose cheaper brands.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "cheaper-brand:2",
+      "lessonKey": "cheaper-brand",
+      "term": "discount stores",
+      "meaning": "cửa hàng bán giá thấp/giảm giá.",
+      "collocation": "shop at/visit discount stores.",
+      "example": "We visit discount stores on weekends.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "cheaper-brand:3",
+      "lessonKey": "cheaper-brand",
+      "term": "control their spending",
+      "meaning": "kiểm soát chi tiêu của họ.",
+      "collocation": "control/reduce your spending.",
+      "example": "A list helps me control my spending.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "cheaper-brand:4",
+      "lessonKey": "cheaper-brand",
+      "term": "the same weight",
+      "meaning": "cùng trọng lượng.",
+      "collocation": "have/compare products of the same weight.",
+      "example": "These two boxes have the same weight.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "cheaper-brand:5",
+      "lessonKey": "cheaper-brand",
+      "term": "ingredients",
+      "meaning": "thành phần/nguyên liệu.",
+      "collocation": "check/read the ingredients.",
+      "example": "I check the ingredients before buying food.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "cheaper-brand:6",
+      "lessonKey": "cheaper-brand",
+      "term": "prefers its taste",
+      "meaning": "thích hương vị của nó hơn.",
+      "collocation": "prefer the taste of something.",
+      "example": "She buys this tea because she prefers its taste.",
       "sourceStatus": "new"
     }
   ]
