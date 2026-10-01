@@ -13,7 +13,9 @@
 - Đường cơ sở ngày 2026-08-26: 2,5/7 câu đọc hiểu, mức hiểu tự đánh giá 70% và 5 lần tra cứu.
 - Hiện làm tốt hơn với chi tiết được nêu trực tiếp và paraphrase câu đơn giản; mục đích tác giả, suy luận và nhớ từ độc lập vẫn chưa ổn định.
 - Cập nhật 2026-09-22: Libraries đạt 3,5/4 lần đầu; Smaller packages đạt 3/4 cả trước và sau sửa. Tra cứu lần lượt 4 và 2 lần. Ưu tiên câu trả lời ngắn, đúng chủ thể và giữ nguyên ý khi sửa; chưa tăng độ khó.
+- Cập nhật 2026-09-28: Short walk đạt 2,75/4 lần đầu, tra cứu 1 lần; suy luận đúng nhưng câu chi tiết nhiều vế còn thiếu hoặc nhầm. Chưa có lượt sửa. Tiếp theo là bài đánh giá bốn tuần; chưa tăng độ khó bài thường ngày.
 - Chưa gán mức CEFR chính thức vì số bài còn ít và dữ liệu thời gian đọc chưa đồng nhất.
+- Ngày 2026-10-01: đánh giá bốn tuần 6/7 bản đầu có hỗ trợ (tra từ 3 lần trong lúc đọc, xem gợi ý câu 6–7). Đọc 219 từ trong 59:43; cần giảm tải 120–150 từ để luyện đọc có giới hạn thời gian. Chưa đo được đoán nghĩa độc lập trong bài này.
 - Đánh giá chi tiết và kế hoạch điều chỉnh được lưu trong [`PROGRESS.md`](./PROGRESS.md#đánh-giá-quá-trình-học-tập).
 
 ## Sở thích học đã chốt

@@ -2,11 +2,11 @@
 
 ## Trạng thái hiện tại
 
-- Giai đoạn: Đã hoàn thành đánh giá đầu vào
-- Bài đang học: Making time for a short walk — chưa bắt đầu
-- Buổi tiếp theo: Ôn 3 mục cũ rồi học bài đời sống trong 20–30 phút
-- Chủ đề bài mới kế tiếp: Xã hội; ưu tiên đánh giá bốn tuần từ 2026-09-23 sau bài hiện tại
-- Ngày đánh giá 4 tuần tiếp theo: 2026-09-23
+- Giai đoạn: Đã chốt đánh giá bốn tuần theo bản nộp đầu tiên có hỗ trợ
+- Bài đang học: —; A community repair day đã chốt ngày 2026-10-01
+- Buổi tiếp theo: Ôn ngắn, đọc đoạn kinh tế 120–150 từ và trả lời đủ các vế; chưa tạo bài mới
+- Chủ đề bài mới kế tiếp: Kinh tế; giảm tải để luyện đọc trong 20–30 phút
+- Ngày đánh giá 4 tuần tiếp theo: 2026-10-29 (dự kiến)
 - Tỷ lệ tiếng Việt hiện tại: khoảng 80% phần giải thích
 
 ## Đường cơ sở
@@ -24,7 +24,31 @@
 
 ## Đánh giá quá trình học tập
 
-### Đánh giá gần nhất — 2026-09-22
+### Đánh giá gần nhất — 2026-10-01
+
+- Theo yêu cầu, chấm và chốt ngay bản nộp đầu tiên A community repair day, không yêu cầu thêm lượt sửa.
+- Điểm nội dung: 6/7 (85,7%). Câu 1–7 lần lượt: 0,75; 1; 0,5; 1; 1; 1; 0,75. Câu 2 chấp nhận lợi ích học kỹ năng ở đoạn 1 vì câu hỏi không giới hạn đoạn; không ép khớp đáp án mẫu.
+- Điều kiện đã xác nhận: 59:43 chỉ cho đọc, có 3 lần tra từ trong khi đọc; đã mở gợi ý câu 6 và 7 trước khi nộp. Đây là bản đầu tiên có hỗ trợ, không phải điểm kiểm tra độc lập.
+- Câu 1–5 đạt 4,25/5 (85%) không xem gợi ý câu hỏi nhưng có tra từ; câu 6–7 đạt 1,75/2 sau gợi ý. Khả năng tự đoán nghĩa không hỗ trợ: chưa đo được, không ghi 0/2 hoặc coi là 2/2 độc lập.
+- So với baseline 2,5/7, bản nộp này trả lời rõ hơn ở lý do và so sánh hai nhóm. Tuy nhiên, khác điều kiện tra cứu/gợi ý và chưa rõ cách bấm giờ baseline nên không xem chênh lệch điểm là mức tăng năng lực chuẩn hóa; chưa gán CEFR.
+- 219 từ trong 59:43 tương đương khoảng 3,7 từ/phút tính trên toàn thời gian đọc có tra cứu; không phải tốc độ đọc thuần. Riêng phần đọc đã vượt khung toàn buổi 20–30 phút. Chưa biết thời gian dành cho đọc lại, tra cứu hay phân tích câu nên không kết luận nguyên nhân.
+- Điểm mạnh: hiểu nhu cầu thời gian ở câu 4; phân biệt mục tiêu chung và ưu tiên ở câu 5; chọn được dẫn chứng từ vựng khi có gợi ý.
+- Cần luyện: xác định đúng hai lý do khác nhau (câu 3), mục đích toàn bài (câu 1), phân biệt nghĩa gần đúng và nghĩa chính xác (câu 7); đoạn viết thiếu khó khăn cụ thể và còn lỗi song song động từ.
+- Hướng học tiếp: tạm giảm đoạn mới xuống 120–150 từ, 3–4 câu hỏi; dành khoảng 8–10 phút đọc ý chính, đánh dấu chỗ chưa hiểu để xem lại có chọn lọc. Kết thúc buổi ở 30 phút và ghi phần chưa hoàn thành. Không yêu cầu dịch từng câu trôi chảy; chưa tăng độ khó.
+- Phần viết giữ nguyên bản, chưa sửa; chưa có dữ liệu hội thoại hoặc nhớ lại 6 cụm từ. Lịch ôn dưới đây là kế hoạch, không phải kết quả.
+
+### Đánh giá trước — 2026-09-28
+
+- Chốt Making time for a short walk theo bài đã nộp: 2,75/4 (68,75%), từng câu 0,75; 0,5; 0,5; 1. Chưa nhận bản sửa nên điểm sau gợi ý là —. Ngày học thực tế chưa xác nhận; ngày 2026-09-28 là ngày cập nhật.
+- Người học tự đánh giá 100%, tra cứu 1 lần, báo thời gian 30:00. Chưa rõ đồng hồ chỉ đo đọc hay cả làm bài; không tính tốc độ hoặc kết luận hoàn thành trong 30 phút.
+- Điểm mạnh: suy luận đúng khi tình huống và quan hệ thời gian cụ thể; phần viết nêu được hoạt động, thời điểm và trở ngại.
+- Cần cải thiện: câu hai vế trả lời đúng một vế nhưng nhầm điều giúp giữ động lực; câu hỏi thời điểm chưa liệt kê đủ ba mốc. Phần viết còn cụm chưa hoàn chỉnh “with an open” và chưa có hành động điều chỉnh cụ thể.
+- Tra cứu giảm 4 → 2 → 1 ở ba bài gần nhất là tín hiệu tích cực; điểm lần đầu 87,5% → 75% → 68,75% cho thấy ít tra từ không đồng nghĩa trả lời chính xác hơn. Các bài khác nhau nên chưa kết luận năng lực giảm.
+- Chưa tăng độ khó bài học thường ngày. Bài đánh giá khoảng 220 từ, 7 câu là ngoại lệ để đối chiếu định dạng đầu vào, không phải nâng độ khó thường xuyên. Đây là bài tự soạn tương đương về độ dài/dạng câu, không phải thang đo chuẩn hóa hoặc chứng nhận CEFR.
+- Sau đánh giá: so riêng ý chính, chi tiết, suy luận và đoán từ; không gộp điểm sau gợi ý vào điểm độc lập. Ưu tiên luyện kiểm tra đủ các vế câu hỏi và trích dẫn chi tiết đúng.
+- Chưa có bản sửa phần viết, dữ liệu nhớ từ hay hội thoại; không tự đánh dấu đã hoàn thành các phần này.
+
+### Đánh giá trước — 2026-09-22
 
 - Smaller packages: chốt 3/4 (75%) theo yêu cầu chuyển bài. Lần đầu: 0,75 + 1 + 0,5 + 0,75 = 3/4. Sau tự sửa: 0,5 + 1 + 1 + 0,5 = 3/4; câu 2 giữ nguyên. Đáp án đã được giải thích sau lượt sửa, không tính việc xem đáp án thành điểm độc lập.
 - Người học báo thời gian đọc 16:35, mức hiểu 95%, tra cứu 2 lần; tổng thời gian buổi học chưa biết. Chưa dùng dữ liệu này để kết luận tốc độ tăng vì cách bấm giờ giữa các buổi chưa được xác nhận nhất quán.
@@ -103,6 +127,8 @@ Nếu đạt đủ các mốc trên, tăng nhẹ độ dài hoặc độ phức 
 | 2026-09-05 | Review 01 / từ vựng, paraphrase và suy luận | — | 4,25/7 lần đầu; 6,5/7 sau gợi ý | 75% | mở bài cũ 2 lần | completed |
 | 2026-09-14 (ngày nộp) | Libraries offer more than books / xã hội | 30:00, phạm vi chưa xác nhận | 3,5/4 lần đầu; chốt theo bài đã nộp | 95% | 4 | completed — đọc hiểu; viết chưa sửa |
 | 2026-09-22 | Smaller packages, the same price / kinh tế | 16:35 theo báo cáo | 3/4 lần đầu; 3/4 sau gợi ý | 95% | 2 | completed — đọc hiểu; viết chưa sửa |
+| 2026-09-28 (ngày chốt) | Making time for a short walk / đời sống | 30:00, phạm vi chưa xác nhận | 2,75/4 lần đầu; chưa sửa | 100% | 1 | completed — đọc hiểu; viết chưa sửa |
+| 2026-10-01 (ngày nộp/chốt) | Đánh giá bốn tuần / A community repair day | 59:43 chỉ đọc, có tra cứu | 6/7 bản đầu có hỗ trợ; câu 6–7 đã xem gợi ý | 90% | 3 trong khi đọc | completed — chốt bản đầu; viết chưa sửa |
 
 ## Hàng đợi ôn tập
 
@@ -124,7 +150,9 @@ Lịch từ mới dựa trên ngày học thực tế; các mục quá hạn v�
 | 2026-09-21 | 4 cụm còn lại của bài Libraries | Libraries and public health | dời từ 2026-09-08 | pending |
 | 2026-09-23, 25, 29; 2026-10-06, 20 | 7 cụm Smaller packages, the same price | Smaller packages | +1, +3, +7, +14, +28 sau ngày học 2026-09-22 | pending |
 | 2026-09-22 | reliable information; keep the same price; stayed the same | Libraries + Smaller packages | ôn nhanh bài mới | pending |
-| 2026-09-23, 25, 29; 2026-10-06, 20 | 7 cụm Making time for a short walk | Short walk | +1, +3, +7, +14, +28 nếu học 2026-09-22 | pending |
+| 2026-09-29 | 7 cụm Making time for a short walk, chia nhóm 3–4 cụm | Short walk | ôn bù, chưa rõ ngày học thực tế | pending; sau khi ôn đặt mốc +3, +7, +14, +28 |
+| 2026-09-29 | Trả lời đủ hai vế và đúng chi tiết thời gian | Short walk | ôn sau đánh giá | pending |
+| 2026-10-02, 04, 08, 15, 29 | 6 cụm A community repair day, chia nhóm 3 cụm | Đánh giá bốn tuần | +1, +3, +7, +14, +28 từ ngày nộp/chốt | pending |
 | 2026-09-08 | Suy luận bằng cách kết hợp hai câu | Morning routine + Review 01 | +3 | pending |
 | 2026-09-12 | Paraphrase bằng từ đồng nghĩa và đổi cấu trúc | Review 01 | +7 | pending |
 

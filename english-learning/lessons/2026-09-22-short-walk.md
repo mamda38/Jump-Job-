@@ -1,7 +1,7 @@
 ---
 title: "Making time for a short walk"
 topic: life
-status: not-started
+status: completed
 study_date: 2026-09-22
 estimated_minutes: 20-30
 word_count: 161
@@ -89,13 +89,12 @@ Viết 2–3 câu tiếng Anh về một hoạt động bạn muốn duy trì: n
 
 ## Kết quả
 
-- Thời gian đọc: —
+- Thời gian đọc: 30:00 theo báo cáo, chưa rõ chỉ đọc hay cả làm bài
 - Tổng thời gian buổi học: —
-- Câu đúng lần đầu: —/4
+- Câu đúng lần đầu: 2,75/4 (0,75; 0,5; 0,5; 1)
 - Câu đúng sau gợi ý: —/4
-- Mức hiểu tự đánh giá: —%
-- Số lần tra cứu sau lượt đầu: —
+- Mức hiểu tự đánh giá: 100%
+- Số lần tra cứu sau lượt đầu: 1
 - Số từ đoán đúng: —/7
 - Số mục cũ nhớ lại: —/3
-- Trạng thái: not-started
-
+- Trạng thái: completed — chốt đọc hiểu theo bài nộp ngày cập nhật 2026-09-28; chưa có lượt sửa; viết chưa sửa; ôn từ và hội thoại chưa xác nhận

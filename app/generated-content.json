@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T06:33:17.793Z",
+  "generatedAt": "2026-10-01T03:40:12.669Z",
   "lessons": [
     {
       "slug": "baseline-assessment",
@@ -438,7 +438,7 @@
       "displayTitle": "Making time for a short walk",
       "topic": "life",
       "topicLabel": "Đời sống",
-      "sourceStatus": "not-started",
+      "sourceStatus": "completed",
       "estimatedMinutes": "20-30",
       "wordCount": 161,
       "introduction": "Ôn nhanh trước khi đọc: reliable information nghĩa là gì? keep the same price nghĩa là gì? Hãy sửa “the price is stay” theo thì quá khứ.\n\nDo you prefer one long break or several short breaks? Trả lời một câu ngắn.\n\nChỉ đọc đoạn thích nghi trên giao diện. Mục tiêu hôm nay: mỗi câu trả lời dài 1–2 câu ngắn, đúng chủ thể; đọc lại bản đầu trước khi sửa để giữ ý đúng.",
@@ -490,6 +490,83 @@
       "grammar": "### instead of + V-ing\n\n“Short walks can be spread across the day instead of taking place in one long session.”\n\nXác định hai cách được so sánh. Hoàn thành bằng ý cá nhân: “I take a short break instead of…”\n\n### but + mệnh đề\n\n“Lan may also miss a walk, but she can still do the other two.”\n\nXác định chủ ngữ và động từ ở mỗi vế. Khi trả lời, chỉ dùng but nếu hai ý tương phản; không đổi chủ thể khi không cần.",
       "conversation": "1. When do you usually have a short break?\n2. Do you prefer walking alone or with a friend? Why?\n3. What could you change if your usual plan becomes difficult?\n\nNói 1–2 câu mỗi lượt. Ưu tiên ý rõ trước độ dài câu.",
       "writingPrompt": "Viết 2–3 câu tiếng Anh về một hoạt động muốn duy trì: thời điểm, một trở ngại và cách điều chỉnh. Giữ cùng chủ thể I; dùng but hoặc because đúng quan hệ ý."
+    },
+    {
+      "slug": "2026-09-28-four-week-assessment",
+      "kind": "lesson",
+      "title": "Đánh giá bốn tuần: A community repair day",
+      "displayTitle": "Đánh giá bốn tuần: A community repair day",
+      "topic": "society",
+      "topicLabel": "Xã hội",
+      "sourceStatus": "completed",
+      "estimatedMinutes": "20-30",
+      "wordCount": 219,
+      "introduction": "Đây là bài đánh giá bốn tuần dời từ 2026-09-23. Độ dài 219 từ so với 222 từ ở đầu vào; 7 câu cùng các nhóm ý chính, chi tiết, suy luận và đoán nghĩa.\n\n1. Dành 6–8 phút đọc một lượt không tra từ. Bấm giờ riêng phần đọc, dừng khi chuyển sang trả lời.\n2. Trả lời cả 7 câu trước khi mở gợi ý, đáp án, từ vựng hoặc bài nguồn. Có thể đọc lại đoạn văn.\n3. Dành 9–11 phút cho câu hỏi. Câu chưa chắc vẫn thử trả lời; không cần câu tiếng Anh dài. Câu 6–7 có thể giải thích bằng tiếng Việt.\n4. Xuất hoặc sao chép bài làm lần đầu để giữ nguyên trước khi nhận gợi ý. Ghi mức hiểu và thời gian đọc; sau đó mới tra từ, ghi số lần tra riêng. Nếu cần trợ giúp trước khi trả lời xong, ghi rõ câu được hỗ trợ.\n5. Viết 2–3 câu trong khoảng 3 phút, nói 3–5 phút sau phần kiểm tra. Tổng dự kiến 21–29 phút; hết 30 phút có thể gửi phần đã làm và ghi phần chưa xong.\n\nĐiểm đọc hiểu lần đầu và điểm sau hỗ trợ được lưu riêng. Từ vựng và giải thích cấu trúc dành cho sau khi nộp, có thể học tiếp buổi sau nếu hết thời gian.",
+      "passageTitle": "A community repair day",
+      "passage": "Repair cafes bring neighbors together to mend broken belongings rather than immediately buy replacements. Volunteers share practical skills, and visitors can learn by watching or helping. Inspired by this idea, imagine a town planning its first community repair day.\n\nThe organizers want to offer free help with clothes and small household items. Supporters believe the event could reduce waste and help residents spend less money. It could also give neighbors a reason to meet, including people who rarely join other community activities.\n\nHowever, the team has limited resources. Only six volunteers are available, and some repairs require tools they do not own. The organizers therefore ask visitors to describe their items in advance. This allows volunteers to prepare and explain which jobs they cannot accept.\n\nSome residents prefer a regular repair shop. They need predictable service because they cannot wait several weeks for the next community event. Others value the chance to learn, even when a repair takes longer. Both groups want their belongings to work again, but they place different importance on time and learning.\n\nThe town decides to try one event before making a permanent plan. Afterward, volunteers will record what they repaired, what remained broken, and how long people waited. This information will help the organizers decide whether to repeat the event or change its design.",
+      "questions": [
+        {
+          "id": "q1",
+          "text": "What is the main purpose of the passage?",
+          "hint": "Bài chỉ liệt kê lợi ích hay còn nêu giới hạn, lựa chọn và cách thử nghiệm? Khái quát toàn bài.",
+          "answer": "The passage discusses the benefits and limits of a proposed community repair day and how the town plans to test the idea."
+        },
+        {
+          "id": "q2",
+          "text": "Give two benefits that supporters expect from the repair day.",
+          "hint": "Tìm đoạn 2, chọn hai lợi ích khác nhau.",
+          "answer": "Any two: less waste; lower spending for residents; opportunities for neighbors to meet, including people who rarely attend other activities."
+        },
+        {
+          "id": "q3",
+          "text": "Why do the organizers ask visitors to describe their items in advance? Give two reasons from paragraph 3.",
+          "hint": "Đọc danh sách khó khăn và câu ngay sau yêu cầu báo trước. Cần hai lý do.",
+          "answer": "Advance descriptions help volunteers prepare with their limited people/tools and tell visitors which repairs they cannot accept."
+        },
+        {
+          "id": "q4",
+          "text": "Why do some residents prefer a regular repair shop?",
+          "hint": "Chú ý câu có because ở đoạn 4; đúng nhóm residents được hỏi.",
+          "answer": "They need reliable timing/service and cannot wait weeks for the next community event."
+        },
+        {
+          "id": "q5",
+          "text": "What goal do both groups of residents share, and how do their priorities differ?",
+          "hint": "Nêu một điểm chung rồi một khác biệt giữa hai nhóm, dựa trên đoạn 4.",
+          "answer": "Both want their belongings to work again. One group prioritizes time and predictable service; the other values learning, even if repairs take longer."
+        },
+        {
+          "id": "q6",
+          "text": "In paragraph 3, what does “limited” most nearly mean? Explain one clue you used.",
+          "hint": "Xem số người có thể giúp và điều họ chưa có. Từ này mô tả mức độ nguồn lực.",
+          "answer": "Limited means restricted or not plentiful. Clues: only six volunteers and missing tools."
+        },
+        {
+          "id": "q7",
+          "text": "In paragraph 4, what does “predictable” most nearly mean? Explain one clue you used.",
+          "hint": "Người này không thể chờ lâu. Họ cần biết trước điều gì ở dịch vụ?",
+          "answer": "Predictable means possible to anticipate or know what to expect from. The clue is that these residents cannot wait several weeks, so timing matters."
+        }
+      ],
+      "source": {
+        "publisher": "Associated Press (AP)",
+        "originalTitle": "“Broken speaker? Finicky zipper? Anticonsumerist Repair Cafes urge you to fix it instead of pitch it”",
+        "url": "https://apnews.com/article/d3acac3ec2aae5e85294b34f0f4764b8",
+        "publishedAt": "2026-06-07",
+        "accessedAt": "2026-09-28",
+        "readingRange": "Chỉ đọc 219 từ dưới đây. Hai câu đầu tóm tắt ý tưởng repair cafes; từ “imagine a town” trở đi là tình huống do gia sư tự soạn, không phải sự kiện AP tường thuật."
+      },
+      "vocabularyIds": [
+        "four-week-assessment:1",
+        "four-week-assessment:2",
+        "four-week-assessment:3",
+        "four-week-assessment:4",
+        "four-week-assessment:5",
+        "four-week-assessment:6"
+      ],
+      "grammar": "Chỉ học sau khi nộp bài.\n\n- rather than + động từ nguyên mẫu: đối chiếu hai lựa chọn trong câu mở đầu. Tìm hai hành động được so sánh.\n- even when + mệnh đề: nhận diện điều vẫn đúng trong tình huống có vẻ bất lợi. Xác định hai vế của câu chứa cụm này.",
+      "conversation": "Sau khi nộp phần đọc hiểu:\n\n1. Do you usually repair broken things or replace them?\n2. What practical skill would you like to learn?\n3. Would you join a community event? Why?",
+      "writingPrompt": "Viết 2–3 câu tiếng Anh: bạn có muốn tham gia ngày sửa đồ trong tình huống này không? Nêu một lý do và một khó khăn cụ thể. Làm sau phần đọc hiểu; chấm riêng."
     },
     {
       "slug": "2026-09-05-overdue-review",
@@ -1004,6 +1081,60 @@
       "meaning": "thói quen/chuỗi hoạt động hằng ngày.",
       "collocation": "fit/change a daily routine.",
       "example": "Reading is part of my daily routine.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "four-week-assessment:1",
+      "lessonKey": "four-week-assessment",
+      "term": "repair",
+      "meaning": "sửa chữa.",
+      "collocation": "repair clothes/household items.",
+      "example": "I want to repair my old bag.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "four-week-assessment:2",
+      "lessonKey": "four-week-assessment",
+      "term": "belongings",
+      "meaning": "đồ đạc thuộc sở hữu của một người.",
+      "collocation": "personal belongings.",
+      "example": "Please keep your belongings with you.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "four-week-assessment:3",
+      "lessonKey": "four-week-assessment",
+      "term": "reduce waste",
+      "meaning": "giảm rác thải hoặc sự lãng phí.",
+      "collocation": "help reduce waste.",
+      "example": "Using an item again can reduce waste.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "four-week-assessment:4",
+      "lessonKey": "four-week-assessment",
+      "term": "in advance",
+      "meaning": "trước, từ trước.",
+      "collocation": "plan/book in advance.",
+      "example": "We book a room in advance.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "four-week-assessment:5",
+      "lessonKey": "four-week-assessment",
+      "term": "accept",
+      "meaning": "chấp nhận, nhận.",
+      "collocation": "accept a job/request.",
+      "example": "The team cannot accept every request.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "four-week-assessment:6",
+      "lessonKey": "four-week-assessment",
+      "term": "permanent",
+      "meaning": "lâu dài, cố định thay vì tạm thời.",
+      "collocation": "a permanent plan/solution.",
+      "example": "We need a permanent place for our meetings.",
       "sourceStatus": "new"
     }
   ]

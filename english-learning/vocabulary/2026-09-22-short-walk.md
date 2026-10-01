@@ -1,6 +1,6 @@
 # Từ vựng: Making time for a short walk
 
-Đoán nghĩa trong bài trước khi xem nghĩa. Lịch dự kiến nếu học 2026-09-22: 09-23, 09-25, 09-29, 10-06, 10-20; điều chỉnh theo ngày học thực tế. Chưa đánh dấu nhớ khi chưa kiểm tra.
+Ngày 2026-09-28: đã chốt bài đọc, chưa có kiểm tra nhớ từ. Giữ trạng thái new; ôn bù ngày 2026-09-29, chia nhóm 3–4 từ. Sau lượt ôn thực tế, đặt các mốc +3, +7, +14, +28. Chưa biết ngày học thực tế nên không giả định các mốc cũ đã hoàn thành.
 
 ## 1. gym membership
 
@@ -8,7 +8,7 @@
 - Collocation: pay for a gym membership.
 - Câu ví dụ: I do not have a gym membership.
 - Câu của tôi: —
-- Ngày ôn: 2026-09-23
+- Ngày ôn: 2026-09-29
 - Trạng thái: new
 
 ## 2. stay motivated
@@ -17,7 +17,7 @@
 - Collocation: help someone stay motivated.
 - Câu ví dụ: A friend helps me stay motivated.
 - Câu của tôi: —
-- Ngày ôn: 2026-09-23
+- Ngày ôn: 2026-09-29
 - Trạng thái: new
 
 ## 3. spread across the day
@@ -26,7 +26,7 @@
 - Collocation: spread activities across the day.
 - Câu ví dụ: I spread my study breaks across the day.
 - Câu của tôi: —
-- Ngày ôn: 2026-09-23
+- Ngày ôn: 2026-09-29
 - Trạng thái: new
 
 ## 4. busy schedule
@@ -35,7 +35,7 @@
 - Collocation: have a busy schedule.
 - Câu ví dụ: I have a busy schedule on Mondays.
 - Câu của tôi: —
-- Ngày ôn: 2026-09-23
+- Ngày ôn: 2026-09-29
 - Trạng thái: new
 
 ## 5. take a short walk
@@ -44,7 +44,7 @@
 - Collocation: take a short walk after lunch.
 - Câu ví dụ: I take a short walk near my office.
 - Câu của tôi: —
-- Ngày ôn: 2026-09-23
+- Ngày ôn: 2026-09-29
 - Trạng thái: new
 
 ## 6. miss a walk
@@ -53,7 +53,7 @@
 - Collocation: miss a walk/meeting/class.
 - Câu ví dụ: I sometimes miss a walk when I work late.
 - Câu của tôi: —
-- Ngày ôn: 2026-09-23
+- Ngày ôn: 2026-09-29
 - Trạng thái: new
 
 ## 7. daily routine
@@ -62,6 +62,5 @@
 - Collocation: fit/change a daily routine.
 - Câu ví dụ: Reading is part of my daily routine.
 - Câu của tôi: —
-- Ngày ôn: 2026-09-23
+- Ngày ôn: 2026-09-29
 - Trạng thái: new
-
