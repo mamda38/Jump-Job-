@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T04:49:29.616Z",
+  "generatedAt": "2026-10-12T14:53:25.307Z",
   "lessons": [
     {
       "slug": "baseline-assessment",
@@ -628,6 +628,65 @@
       "writingPrompt": "Viết 2–3 câu tiếng Anh: nêu một sản phẩm có thể thử đổi nhãn hiệu, một lý do và một điều muốn kiểm tra trước khi mua."
     },
     {
+      "slug": "2026-10-12-fewer-notifications",
+      "kind": "lesson",
+      "title": "Fewer notifications, more focus",
+      "displayTitle": "Fewer notifications, more focus",
+      "topic": "life",
+      "topicLabel": "Đời sống",
+      "sourceStatus": "not-started",
+      "estimatedMinutes": "20-30",
+      "wordCount": 129,
+      "introduction": "Ôn 2 phút: giải thích practical help; sửa can saving money và would buying one can.\n\nMục tiêu: nêu ý chính, trả lời đủ hai vế và giải thích một hệ quả cụ thể. Bài giữ ngắn theo tiến độ hiện tại; chưa tăng độ khó chỉ dựa vào mức hiểu tự đánh giá.\n\nLượt đầu tối đa 5 phút, chưa tra từ hoặc mở gợi ý/từ vựng. Ghi một câu ý chính. Sau đó dành tối đa 3 phút tra và đọc lại chỗ cần thiết. Ghi riêng thời gian lượt đầu, tra từ, đọc lại; chỉ bật đồng hồ khi đọc. Không cần dịch toàn bài.\n\nTrả lời rồi xuất bản đầu để gia sư chấm. Nếu mở gợi ý, ghi rõ câu nào; điểm sau hỗ trợ được ghi riêng. Tổng buổi 20–30 phút, hết giờ thì ghi phần chưa làm thay vì cố hoàn thành.",
+      "passageTitle": "Fewer notifications, more focus",
+      "passage": "Phone notifications can interrupt a quiet activity. An Associated Press article describes using phone settings to silence notifications or pause distracting apps.\n\nConsider this imaginary example. Nam wants to focus on an English article for twenty minutes after dinner. However, he checks every message. When he returns to the article, he often loses his place and reads the same lines again.\n\nTonight, he decides to turn off notifications from social apps until his reading time ends. He still allows urgent calls from his family. He plans to check messages when he takes a break.\n\nNam does not need to stop using his phone all evening. He is choosing when to use it. A short reading period with fewer interruptions may help him finish the article without repeatedly starting again.",
+      "questions": [
+        {
+          "id": "q1",
+          "text": "What is the main purpose of the passage? Begin with “The passage explains…”",
+          "hint": "Bài không chỉ nói về điện thoại. Nam thay đổi điều gì để làm tốt việc gì?",
+          "answer": "The passage explains how choosing when to check phone messages can reduce interruptions during reading."
+        },
+        {
+          "id": "q2",
+          "text": "When does Nam plan to read, and for how long?",
+          "hint": "Tìm hai chi tiết ở câu đầu đoạn 2: thời điểm và khoảng thời gian.",
+          "answer": "He plans to read after dinner for twenty minutes."
+        },
+        {
+          "id": "q3",
+          "text": "Which notifications does Nam turn off, and which calls does he still allow?",
+          "hint": "Đoạn 3 đối chiếu điều bị tắt và điều vẫn được phép. Trả lời cả hai.",
+          "answer": "He turns off notifications from social apps but still allows urgent calls from his family."
+        },
+        {
+          "id": "q4",
+          "text": "Why might checking messages only during a break help Nam use his reading time better? Use two clues from the example.",
+          "hint": "Khi kiểm tra từng tin nhắn, Nam gặp điều gì sau khi quay lại bài? Nếu chờ đến giờ nghỉ, điều gì có thể giảm đi?",
+          "answer": "Checking every message makes him lose his place and reread the same lines. Waiting until a break may reduce this repeated reading, leaving more time to finish the article."
+        }
+      ],
+      "source": {
+        "publisher": "Associated Press (AP), bản đăng lại trên Tech Xplore",
+        "originalTitle": "One Tech Tip: Wasting too much time on social media apps? Tips and tricks to curb smartphone use",
+        "url": "https://techxplore.com/news/2025-03-tech-social-media-apps-curb.html",
+        "publishedAt": "2025-03-13",
+        "accessedAt": "2026-10-12",
+        "readingRange": "Chỉ đọc 129 từ bên dưới. Đoạn đầu tóm tắt ngắn một ý từ mục Don't be distracted; tình huống Nam và kế hoạch đọc do gia sư tạo, không phải trường hợp được AP đưa tin."
+      },
+      "vocabularyIds": [
+        "fewer-notifications:1",
+        "fewer-notifications:2",
+        "fewer-notifications:3",
+        "fewer-notifications:4",
+        "fewer-notifications:5",
+        "fewer-notifications:6"
+      ],
+      "grammar": "### can / would + động từ nguyên mẫu\n\nTìm động từ đứng sau can trong câu đầu. Tự kiểm tra hai cụm ở phần ôn.\nVí dụ mới: I can cook at home. I would choose a smaller bag.\nViết một câu ngắn về việc học: I can ___. Không thêm -ing ngay sau can/would.",
+      "conversation": "1. When do you usually check your phone?\n2. What interrupts your English study?\n3. What small change would you try? Why?\n\nNói thành tiếng 1–2 câu mỗi lượt; gia sư hỏi thêm một câu theo câu trả lời. Chưa thực hiện thì để trạng thái chưa làm.",
+      "writingPrompt": "Viết 2–3 câu tiếng Anh: một thay đổi bạn muốn thử để tập trung hơn, lý do cụ thể và lúc bạn sẽ thử. Dùng can hoặc would + động từ nguyên mẫu."
+    },
+    {
       "slug": "2026-09-05-overdue-review",
       "kind": "review",
       "title": "Review 01: Recall, paraphrase and inference",
@@ -1248,6 +1307,60 @@
       "meaning": "thích hương vị của nó hơn.",
       "collocation": "prefer the taste of something.",
       "example": "She buys this tea because she prefers its taste.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "fewer-notifications:1",
+      "lessonKey": "fewer-notifications",
+      "term": "notifications",
+      "meaning": "thông báo.",
+      "collocation": "silence/turn off notifications.",
+      "example": "I turn off notifications while reading.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "fewer-notifications:2",
+      "lessonKey": "fewer-notifications",
+      "term": "focus on",
+      "meaning": "tập trung vào.",
+      "collocation": "focus on a task/an article.",
+      "example": "I want to focus on one task.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "fewer-notifications:3",
+      "lessonKey": "fewer-notifications",
+      "term": "loses his place",
+      "meaning": "mất dấu chỗ đang đọc.",
+      "collocation": "lose your place in a book.",
+      "example": "When I stop reading, I sometimes lose my place.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "fewer-notifications:4",
+      "lessonKey": "fewer-notifications",
+      "term": "turn off",
+      "meaning": "tắt.",
+      "collocation": "turn off notifications/the television.",
+      "example": "I turn off the television before studying.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "fewer-notifications:5",
+      "lessonKey": "fewer-notifications",
+      "term": "urgent calls",
+      "meaning": "cuộc gọi khẩn cấp.",
+      "collocation": "allow/answer urgent calls.",
+      "example": "She still allows urgent calls from her family.",
+      "sourceStatus": "new"
+    },
+    {
+      "id": "fewer-notifications:6",
+      "lessonKey": "fewer-notifications",
+      "term": "takes a break",
+      "meaning": "nghỉ giải lao.",
+      "collocation": "take a short break.",
+      "example": "He takes a break after reading.",
       "sourceStatus": "new"
     }
   ]

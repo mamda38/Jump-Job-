@@ -3,13 +3,20 @@
 ## Trạng thái hiện tại
 
 - Giai đoạn: Đã chốt đánh giá bốn tuần theo bản nộp đầu tiên có hỗ trợ
-- Bài đang học: Trying a cheaper brand — chưa bắt đầu
-- Buổi tiếp theo: Ôn 2 cụm cũ, đọc bài 128 từ, lưu bản đầu và ghi riêng thời gian đọc/tra từ/đọc lại
-- Chủ đề bài mới kế tiếp: Đời sống; giữ nhịp 20–30 phút
+- Bài đang học: Fewer notifications, more focus — đã chuẩn bị 2026-10-12, not-started; chưa có kết quả
+- Buổi tiếp theo: Ôn practical help, can/would + động từ nguyên mẫu; học bài đời sống 129 từ và luyện nối hành động với hệ quả
+- Chủ đề bài mới kế tiếp: Xã hội, sau khi hoàn thành bài hiện tại; giữ nhịp 20–30 phút
 - Ngày đánh giá 4 tuần tiếp theo: 2026-10-29 (dự kiến)
 - Tỷ lệ tiếng Việt hiện tại: khoảng 80% phần giải thích
 
 ## Đường cơ sở
+
+### Bài đã chuẩn bị — 2026-10-12
+
+- Bài: [Fewer notifications, more focus](lessons/2026-10-12-fewer-notifications.md); 129 từ, 4 câu đọc hiểu, 6 cụm, hội thoại 4 phút, viết 2–3 câu.
+- Chưa ghi điểm, thời gian hoặc mức hiểu; chưa coi việc tạo bài là hoàn thành buổi học.
+- Lịch ôn dự kiến nếu học 2026-10-12: 2026-10-13, 15, 19, 26 và 2026-11-09; điều chỉnh theo ngày học thực tế. Trạng thái pending.
+
 
 | Chỉ số | Kết quả |
 |---|---:|
@@ -24,7 +31,17 @@
 
 ## Đánh giá quá trình học tập
 
-### Đánh giá gần nhất — 2026-10-01
+### Đánh giá gần nhất — 2026-10-12
+
+- Trying a cheaper brand: bản đầu 3/4 (75%); sau tự sửa 3,25/4 (81,25%). Điểm từng câu bản đầu: 0,5; 1; 1; 0,5. Sau sửa: 0,75; 1; 1; 0,5. Câu 2–3 giữ nguyên; không thay điểm bản đầu bằng điểm sau gợi ý.
+- Người học báo 15:00, hiểu tự đánh giá 100%. Chưa xác nhận thời gian có gồm tra từ/đọc lại hay không, số lần tra và việc xem gợi ý trước bản đầu. Dùng — cho dữ liệu thiếu; không tính tốc độ hoặc khẳng định đọc nhanh hơn.
+- Trình độ đọc hiện tại: xử lý được chi tiết trực tiếp trong đoạn ngắn, quen thuộc; bài này trả lời đủ hai phần ở câu 2–3. Ý chính và suy luận hệ quả còn chưa ổn định: câu 1 mới nêu tiết kiệm, câu 4 nêu thử sản phẩm nhưng chưa giải thích lợi ích của chỉ mua một hộp.
+- So với giai đoạn đầu, có bằng chứng diễn đạt lý do và so sánh rõ hơn; chưa đủ dữ liệu để khẳng định đọc độc lập tốt hoặc gán mức CEFR. Điểm bài đánh giá bốn tuần 6/7 có hỗ trợ vẫn được giữ nhãn riêng.
+- Phần viết sửa đã chuyển đúng sang góc nhìn người mua và có hành động thử một lon. Lý do giá còn chung và chưa nói rõ điều kiểm tra. Lỗi ưu tiên: brand/branch; can save và would buy thay cho can saving, would buying. Bản mẫu gia sư không tính là bài tự sửa của người học.
+- Giữ bài 120–150 từ và tổng buổi 20–30 phút. Luyện mỗi câu trả lời có ý chính và một lý do/hệ quả cụ thể; ghi riêng đọc lần đầu, tra từ, đọc lại trước khi quyết định tăng độ khó.
+- Chưa có kết quả ôn nhớ từ hoặc hội thoại của bài này; không đánh dấu các phần đó hoàn thành. Lịch đánh giá tiếp theo giữ 2026-10-29.
+
+### Đánh giá trước — 2026-10-01
 
 #### Tổng hợp quá trình từ đầu vào đến nay
 
@@ -155,6 +172,7 @@ Nếu đạt đủ các mốc trên, tăng nhẹ độ dài hoặc độ phức 
 | 2026-09-22 | Smaller packages, the same price / kinh tế | 16:35 theo báo cáo | 3/4 lần đầu; 3/4 sau gợi ý | 95% | 2 | completed — đọc hiểu; viết chưa sửa |
 | 2026-09-28 (ngày chốt) | Making time for a short walk / đời sống | 30:00, phạm vi chưa xác nhận | 2,75/4 lần đầu; chưa sửa | 100% | 1 | completed — đọc hiểu; viết chưa sửa |
 | 2026-10-01 (ngày nộp/chốt) | Đánh giá bốn tuần / A community repair day | 59:43 chỉ đọc, có tra cứu | 6/7 bản đầu có hỗ trợ; câu 6–7 đã xem gợi ý | 90% | 3 trong khi đọc | completed — chốt bản đầu; viết chưa sửa |
+| 2026-10-12 (ngày chốt) | Trying a cheaper brand / kinh tế | 15:00, phạm vi chưa xác nhận | 3/4 bản đầu; 3,25/4 sau gợi ý | 100% | — | completed — đọc hiểu đã chấm; viết đã thử sửa, còn lỗi |
 
 ## Hàng đợi ôn tập
 
@@ -179,7 +197,8 @@ Lịch từ mới dựa trên ngày học thực tế; các mục quá hạn v�
 | 2026-09-29 | 7 cụm Making time for a short walk, chia nhóm 3–4 cụm | Short walk | ôn bù, chưa rõ ngày học thực tế | pending; sau khi ôn đặt mốc +3, +7, +14, +28 |
 | 2026-09-29 | Trả lời đủ hai vế và đúng chi tiết thời gian | Short walk | ôn sau đánh giá | pending |
 | 2026-10-02, 04, 08, 15, 29 | 6 cụm A community repair day, chia nhóm 3 cụm | Đánh giá bốn tuần | +1, +3, +7, +14, +28 từ ngày nộp/chốt | pending |
-| 2026-10-02, 04, 08, 15, 29 | 6 cụm Trying a cheaper brand | Cheaper brand | +1, +3, +7, +14, +28 nếu học 2026-10-01 | pending — điều chỉnh theo ngày học thực tế |
+| 2026-10-13, 15, 19, 26; 2026-11-09 | 6 cụm Trying a cheaper brand, chia nhóm nhỏ | Cheaper brand | +1, +3, +7, +14, +28 từ ngày chốt 2026-10-12 | pending — chưa kiểm tra nhớ lại |
+| 2026-10-13 | can/would + động từ nguyên mẫu; brand và branch; nêu hệ quả | Cheaper brand | ôn sau chốt | pending |
 | 2026-09-08 | Suy luận bằng cách kết hợp hai câu | Morning routine + Review 01 | +3 | pending |
 | 2026-09-12 | Paraphrase bằng từ đồng nghĩa và đổi cấu trúc | Review 01 | +7 | pending |
 
